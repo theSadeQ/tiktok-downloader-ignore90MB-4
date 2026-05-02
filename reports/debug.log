@@ -6224,3 +6224,70 @@ WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate 
 [2026-05-02T19:06:15Z] Copying downloaded files to downloads
 [2026-05-02T19:06:21Z] Preparing commit for: batch-92-after-460-successful-downloads
 [2026-05-02T19:06:21Z] Removing video files larger than 90MB from: downloads
+[main a20a4af] Add downloaded TikTok files batch-92-after-460-successful-downloads [skip ci]
+ 7 files changed, 72 insertions(+)
+ create mode 100644 "downloads/annabel.lucinda/@annabel.lucinda_2026-03-24_IN LOVE WITH THIS SET\360\237\214\236\360\237\247\241\342\234\250 @Gymshark \342\200\230annabel10\342\200\231 #gymgirl #gymmotivati_7620862698649111822.mp4"
+ create mode 100644 downloads/annabel.lucinda/@annabel.lucinda_2026-03-24_i WILL grow these legs. #gymmotivation #gymgirls #legday #gymprogresss _7620935927090646285.mp4
+ create mode 100644 "downloads/annabel.lucinda/@annabel.lucinda_2026-03-24_it\342\200\231s always a party\360\237\222\203\360\237\217\274\360\237\247\241\342\234\250 #gymgirls #gymmotivation #legday #gymworkou_7620972399957216525.mp4"
+ create mode 100644 "downloads/annabel.lucinda/@annabel.lucinda_2026-03-25_be honest, do we look alike\360\237\253\243 #norman #italiangreyhound #mybabyboy _7621298406211833102.mp4"
+ create mode 100644 "downloads/annabel.lucinda/@annabel.lucinda_2026-03-26_new \342\200\230interval\342\200\231 collection dropping 04.02\360\237\222\223 @Gymshark ANNABEL10 #gymsha..._7621665711357807886.mp4"
+To https://github.com/theSadeQ/tiktok-downloader-ignore90MB-4
+   0b43e89..a20a4af  HEAD -> main
+[2026-05-02T19:06:29Z] Batch committed and pushed successfully: batch-92-after-460-successful-downloads
+[2026-05-02T19:06:29Z] Processing URL #465:
+[2026-05-02T19:06:29Z] https://www.tiktok.com/@annabel.lucinda/video/7621735724659821838
+[TikTok] Extracting URL: https://www.tiktok.com/@annabel.lucinda/video/7621735724659821838
+[TikTok] 7621735724659821838: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7621735724659821838: Downloading 1 format(s): bytevc1_1080p_1462884-1
+[download] Destination: tmp_downloads/annabel.lucinda/@annabel.lucinda_2026-03-27_palm pal collection reveal🫪 #whichoneisyourfav #palmpals #brinabel _7621735724659821838.mp4
+[download]   0.0% of    3.01MiB at  Unknown B/s ETA Unknown[download]   0.1% of    3.01MiB at  Unknown B/s ETA Unknown[download]   0.2% of    3.01MiB at  Unknown B/s ETA Unknown[download]   0.5% of    3.01MiB at    7.10MiB/s ETA 00:00  [download]   1.0% of    3.01MiB at    4.66MiB/s ETA 00:00[download]   2.0% of    3.01MiB at    1.37MiB/s ETA 00:02[download]   4.1% of    3.01MiB at    2.00MiB/s ETA 00:01[download]   8.3% of    3.01MiB at    2.14MiB/s ETA 00:01[download]  16.6% of    3.01MiB at    2.65MiB/s ETA 00:00[download]  33.2% of    3.01MiB at    3.90MiB/s ETA 00:00[download]  66.4% of    3.01MiB at    5.89MiB/s ETA 00:00[download] 100.0% of    3.01MiB at    7.78MiB/s ETA 00:00[download] 100% of    3.01MiB in 00:00:00 at 4.46MiB/s   
+[2026-05-02T19:06:31Z] New file downloaded for this URL.
+[2026-05-02T19:06:31Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T19:06:31Z] Copying downloaded files to downloads
+[2026-05-02T19:06:36Z] Processing URL #466:
+[2026-05-02T19:06:36Z] https://www.tiktok.com/@annabel.lucinda/video/7622026332901215502
+[TikTok] Extracting URL: https://www.tiktok.com/@annabel.lucinda/video/7622026332901215502
+[TikTok] 7622026332901215502: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7622026332901215502: Downloading 1 format(s): bytevc1_1080p_1388547-1
+[download] Destination: tmp_downloads/annabel.lucinda/@annabel.lucinda_2026-03-27_grwm for the gym + catch up💓🕺🪩✨ #gymgirls #grwm #gymtok _7622026332901215502.mp4
+[download]   0.0% of   10.42MiB at  Unknown B/s ETA Unknown[download]   0.0% of   10.42MiB at  Unknown B/s ETA Unknown[download]   0.1% of   10.42MiB at  Unknown B/s ETA Unknown[download]   0.1% of   10.42MiB at    7.21MiB/s ETA 00:01  [download]   0.3% of   10.42MiB at    4.70MiB/s ETA 00:02[download]   0.6% of   10.42MiB at    1.25MiB/s ETA 00:08[download]   1.2% of   10.42MiB at    1.37MiB/s ETA 00:07[download]   2.4% of   10.42MiB at    1.83MiB/s ETA 00:05[download]   4.8% of   10.42MiB at    2.50MiB/s ETA 00:03[download]   9.6% of   10.42MiB at    3.52MiB/s ETA 00:02[download]  19.2% of   10.42MiB at    5.54MiB/s ETA 00:01[download]  38.4% of   10.42MiB at    8.94MiB/s ETA 00:00[download]  76.8% of   10.42MiB at   14.90MiB/s ETA 00:00[download] 100.0% of   10.42MiB at   18.17MiB/s ETA 00:00[download] 100% of   10.42MiB in 00:00:00 at 12.12MiB/s  
+[2026-05-02T19:06:38Z] New file downloaded for this URL.
+[2026-05-02T19:06:38Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T19:06:38Z] Copying downloaded files to downloads
+[2026-05-02T19:06:44Z] Processing URL #467:
+[2026-05-02T19:06:44Z] https://www.tiktok.com/@annabel.lucinda/video/7622079607222684941
+[TikTok] Extracting URL: https://www.tiktok.com/@annabel.lucinda/video/7622079607222684941
+[TikTok] 7622079607222684941: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7622079607222684941: Downloading 1 format(s): bytevc1_1080p_1244123-1
+[download] Destination: tmp_downloads/annabel.lucinda/@annabel.lucinda_2026-03-27_@Gymshark haul!!!🦈💓✨ ‘annabel10’ to save #gymshark #gymclothing #gym_7622079607222684941.mp4
+[download]   0.0% of   16.55MiB at  Unknown B/s ETA Unknown[download]   0.0% of   16.55MiB at  Unknown B/s ETA Unknown[download]   0.0% of   16.55MiB at  Unknown B/s ETA Unknown[download]   0.1% of   16.55MiB at    7.96MiB/s ETA 00:02  [download]   0.2% of   16.55MiB at    4.85MiB/s ETA 00:03[download]   0.4% of   16.55MiB at    1.24MiB/s ETA 00:13[download]   0.7% of   16.55MiB at    1.36MiB/s ETA 00:12[download]   1.5% of   16.55MiB at    2.08MiB/s ETA 00:07[download]   3.0% of   16.55MiB at    2.50MiB/s ETA 00:06[download]   6.0% of   16.55MiB at    3.62MiB/s ETA 00:04[download]  12.1% of   16.55MiB at    5.62MiB/s ETA 00:02[download]  24.2% of   16.55MiB at    8.96MiB/s ETA 00:01[download]  48.3% of   16.55MiB at   14.89MiB/s ETA 00:00[download]  72.5% of   16.55MiB at   19.99MiB/s ETA 00:00[download]  96.7% of   16.55MiB at   25.47MiB/s ETA 00:00[download] 100.0% of   16.55MiB at   26.28MiB/s ETA 00:00[download] 100% of   16.55MiB in 00:00:00 at 18.14MiB/s  
+[2026-05-02T19:06:46Z] New file downloaded for this URL.
+[2026-05-02T19:06:46Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T19:06:46Z] Copying downloaded files to downloads
+[2026-05-02T19:06:51Z] Processing URL #468:
+[2026-05-02T19:06:51Z] https://www.tiktok.com/@annabel.lucinda/video/7622345117646523661
+[TikTok] Extracting URL: https://www.tiktok.com/@annabel.lucinda/video/7622345117646523661
+[TikTok] 7622345117646523661: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7622345117646523661: Downloading 1 format(s): bytevc1_1080p_2422430-1
+[download] Destination: tmp_downloads/annabel.lucinda/@annabel.lucinda_2026-03-28_everyone struggles with something, you’re never alone💓 #gymgirls #ins..._7622345117646523661.mp4
+[download]   0.0% of   51.06MiB at  454.72KiB/s ETA 01:55[download]   0.0% of   51.06MiB at    1.19MiB/s ETA 00:43[download]   0.0% of   51.06MiB at    2.54MiB/s ETA 00:20[download]   0.0% of   51.06MiB at    4.96MiB/s ETA 00:10[download]   0.1% of   51.06MiB at    4.64MiB/s ETA 00:10[download]   0.1% of   51.06MiB at    1.37MiB/s ETA 00:37[download]   0.2% of   51.06MiB at    2.01MiB/s ETA 00:25[download]   0.5% of   51.06MiB at    2.09MiB/s ETA 00:24[download]   1.0% of   51.06MiB at    2.64MiB/s ETA 00:19[download]   2.0% of   51.06MiB at    3.70MiB/s ETA 00:13[download]   3.9% of   51.06MiB at    5.93MiB/s ETA 00:08[download]   7.8% of   51.06MiB at    9.38MiB/s ETA 00:05[download]  15.7% of   51.06MiB at   15.47MiB/s ETA 00:02[download]  23.5% of   51.06MiB at   21.11MiB/s ETA 00:01[download]  31.3% of   51.06MiB at   26.24MiB/s ETA 00:01[download]  39.2% of   51.06MiB at   30.98MiB/s ETA 00:01[download]  47.0% of   51.06MiB at   35.41MiB/s ETA 00:00[download]  54.8% of   51.06MiB at   40.58MiB/s ETA 00:00[download]  62.7% of   51.06MiB at   45.65MiB/s ETA 00:00[download]  70.5% of   51.06MiB at   49.42MiB/s ETA 00:00[download]  78.3% of   51.06MiB at   54.10MiB/s ETA 00:00[download]  86.2% of   51.06MiB at   57.22MiB/s ETA 00:00[download]  94.0% of   51.06MiB at   61.51MiB/s ETA 00:00[download] 100.0% of   51.06MiB at   64.89MiB/s ETA 00:00[download] 100% of   51.06MiB in 00:00:01 at 49.02MiB/s  
+[2026-05-02T19:06:53Z] New file downloaded for this URL.
+[2026-05-02T19:06:53Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T19:06:53Z] Copying downloaded files to downloads
+[2026-05-02T19:06:59Z] Processing URL #469:
+[2026-05-02T19:06:59Z] https://www.tiktok.com/@annabel.lucinda/video/7622395100232027406
+[TikTok] Extracting URL: https://www.tiktok.com/@annabel.lucinda/video/7622395100232027406
+[TikTok] 7622395100232027406: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7622395100232027406: Downloading 1 format(s): bytevc1_1080p_1518731-1
+[download] Destination: tmp_downloads/annabel.lucinda/@annabel.lucinda_2026-03-28_RYP shoot today!!❤️ #regainyourpower #gymtok #gymgirls _7622395100232027406.mp4
+[download]   0.1% of    1.56MiB at  276.34KiB/s ETA 00:05[download]   0.2% of    1.56MiB at  761.54KiB/s ETA 00:02[download]   0.4% of    1.56MiB at    1.63MiB/s ETA 00:00[download]   0.9% of    1.56MiB at    3.31MiB/s ETA 00:00[download]   1.9% of    1.56MiB at    3.81MiB/s ETA 00:00[download]   4.0% of    1.56MiB at    1.26MiB/s ETA 00:01[download]   8.0% of    1.56MiB at    1.88MiB/s ETA 00:00[download]  16.0% of    1.56MiB at    2.09MiB/s ETA 00:00[download]  32.1% of    1.56MiB at    2.63MiB/s ETA 00:00[download]  64.2% of    1.56MiB at    3.69MiB/s ETA 00:00[download] 100.0% of    1.56MiB at    4.89MiB/s ETA 00:00[download] 100% of    1.56MiB in 00:00:00 at 2.54MiB/s   
+[2026-05-02T19:07:01Z] New file downloaded for this URL.
+[2026-05-02T19:07:01Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T19:07:01Z] Copying downloaded files to downloads
+[2026-05-02T19:07:06Z] Preparing commit for: batch-93-after-465-successful-downloads
+[2026-05-02T19:07:06Z] Removing video files larger than 90MB from: downloads
