@@ -1,0 +1,63 @@
+[2026-05-02T18:23:30Z] Workflow started
+[2026-05-02T18:23:30Z] Current branch: main
+[2026-05-02T18:23:30Z] Batch size: 5
+[2026-05-02T18:23:30Z] Detected command: tiktok-download
+[2026-05-02T18:23:30Z] Download mode: normal
+[2026-05-02T18:23:30Z] No TikTok cookies secret provided. Trying public download.
+[2026-05-02T18:23:30Z] Processing URL #1:
+[2026-05-02T18:23:30Z] https://www.tiktok.com/@abbieherbert/video/7588657255298452766
+[TikTok] Extracting URL: https://www.tiktok.com/@abbieherbert/video/7588657255298452766
+[TikTok] 7588657255298452766: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7588657255298452766: Downloading 1 format(s): bytevc1_1080p_1050857-1
+[download] Destination: tmp_downloads/abbieherbert/@abbieherbert_2025-12-27_7 days postpartum as a mom of 3! What a day 🤪🙃_7588657255298452766.mp4
+[download]   0.0% of   13.41MiB at  Unknown B/s ETA Unknown[download]   0.0% of   13.41MiB at  Unknown B/s ETA Unknown[download]   0.1% of   13.41MiB at  Unknown B/s ETA Unknown[download]   0.1% of   13.41MiB at    7.35MiB/s ETA 00:01  [download]   0.2% of   13.41MiB at    4.58MiB/s ETA 00:02[download]   0.5% of   13.41MiB at    1.30MiB/s ETA 00:10[download]   0.9% of   13.41MiB at    1.76MiB/s ETA 00:07[download]   1.9% of   13.41MiB at    2.08MiB/s ETA 00:06[download]   3.7% of   13.41MiB at    2.56MiB/s ETA 00:05[download]   7.4% of   13.41MiB at    3.82MiB/s ETA 00:03[download]  14.9% of   13.41MiB at    5.69MiB/s ETA 00:02[download]  29.8% of   13.41MiB at    8.96MiB/s ETA 00:01[download]  59.6% of   13.41MiB at   14.81MiB/s ETA 00:00[download]  89.5% of   13.41MiB at   20.23MiB/s ETA 00:00[download] 100.0% of   13.41MiB at   21.64MiB/s ETA 00:00[download] 100% of   13.41MiB in 00:00:01 at 12.01MiB/s  
+[2026-05-02T18:23:32Z] New file downloaded for this URL.
+[2026-05-02T18:23:32Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T18:23:32Z] Copying downloaded files to downloads
+[2026-05-02T18:23:32Z] Processing URL #2:
+[2026-05-02T18:23:32Z] https://www.tiktok.com/@abbieherbert/video/7588996897390578974
+[TikTok] Extracting URL: https://www.tiktok.com/@abbieherbert/video/7588996897390578974
+[TikTok] 7588996897390578974: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7588996897390578974: Downloading 1 format(s): bytevc1_1080p_1063978-1
+[download] Destination: tmp_downloads/abbieherbert/@abbieherbert_2025-12-28_I think he will be doing this walk in 2026 🤭🥹_7588996897390578974.mp4
+[download]   0.1% of    1.01MiB at  Unknown B/s ETA Unknown[download]   0.3% of    1.01MiB at    2.39MiB/s ETA 00:00  [download]   0.7% of    1.01MiB at    4.38MiB/s ETA 00:00[download]   1.4% of    1.01MiB at    4.59MiB/s ETA 00:00[download]   3.0% of    1.01MiB at    1.18MiB/s ETA 00:00[download]   6.1% of    1.01MiB at    1.19MiB/s ETA 00:00[download]  12.3% of    1.01MiB at    1.32MiB/s ETA 00:00[download]  24.6% of    1.01MiB at    1.93MiB/s ETA 00:00[download]  49.4% of    1.01MiB at    2.56MiB/s ETA 00:00[download]  98.9% of    1.01MiB at    3.66MiB/s ETA 00:00[download] 100.0% of    1.01MiB at    3.70MiB/s ETA 00:00[download] 100% of    1.01MiB in 00:00:00 at 1.64MiB/s   
+[2026-05-02T18:23:34Z] New file downloaded for this URL.
+[2026-05-02T18:23:34Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T18:23:34Z] Copying downloaded files to downloads
+[2026-05-02T18:23:34Z] Processing URL #3:
+[2026-05-02T18:23:34Z] https://www.tiktok.com/@abbieherbert/video/7589338971604405534
+[TikTok] Extracting URL: https://www.tiktok.com/@abbieherbert/video/7589338971604405534
+[TikTok] 7589338971604405534: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7589338971604405534: Downloading 1 format(s): bytevc1_1080p_353527-1
+[download] Destination: tmp_downloads/abbieherbert/@abbieherbert_2025-12-29_They are all twins 🤭🥹_7589338971604405534.mp4
+[download]   0.3% of  366.82KiB at  Unknown B/s ETA Unknown[download]   0.8% of  366.82KiB at  Unknown B/s ETA Unknown[download]   1.9% of  366.82KiB at  Unknown B/s ETA Unknown[download]   4.1% of  366.82KiB at    6.87MiB/s ETA 00:00  [download]   8.5% of  366.82KiB at    1.65MiB/s ETA 00:00[download]  17.2% of  366.82KiB at    1.14MiB/s ETA 00:00[download]  34.6% of  366.82KiB at    1.66MiB/s ETA 00:00[download]  69.5% of  366.82KiB at    1.94MiB/s ETA 00:00[download] 100.0% of  366.82KiB at    2.16MiB/s ETA 00:00[download] 100% of  366.82KiB in 00:00:00 at 676.64KiB/s 
+[2026-05-02T18:23:36Z] New file downloaded for this URL.
+[2026-05-02T18:23:36Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T18:23:36Z] Copying downloaded files to downloads
+[2026-05-02T18:23:36Z] Processing URL #4:
+[2026-05-02T18:23:36Z] https://www.tiktok.com/@abbieherbert/video/7589800436689866014
+[TikTok] Extracting URL: https://www.tiktok.com/@abbieherbert/video/7589800436689866014
+[TikTok] 7589800436689866014: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7589800436689866014: Downloading 1 format(s): bytevc1_1080p_1071448-1
+[download] Destination: tmp_downloads/abbieherbert/@abbieherbert_2025-12-30_Ask me any questions! Can’t believe this was almost 4 weeks ago 🥹😭_7589800436689866014.mp4
+[download]   0.0% of    6.98MiB at  Unknown B/s ETA Unknown[download]   0.0% of    6.98MiB at  Unknown B/s ETA Unknown[download]   0.1% of    6.98MiB at  Unknown B/s ETA Unknown[download]   0.2% of    6.98MiB at    7.49MiB/s ETA 00:00  [download]   0.4% of    6.98MiB at    4.84MiB/s ETA 00:01[download]   0.9% of    6.98MiB at    1.37MiB/s ETA 00:05[download]   1.8% of    6.98MiB at    1.86MiB/s ETA 00:03[download]   3.6% of    6.98MiB at    2.19MiB/s ETA 00:03[download]   7.2% of    6.98MiB at    2.69MiB/s ETA 00:02[download]  14.3% of    6.98MiB at    4.00MiB/s ETA 00:01[download]  28.7% of    6.98MiB at    6.00MiB/s ETA 00:00[download]  57.3% of    6.98MiB at    9.45MiB/s ETA 00:00[download] 100.0% of    6.98MiB at   13.95MiB/s ETA 00:00[download] 100% of    6.98MiB in 00:00:00 at 8.02MiB/s   
+[2026-05-02T18:23:37Z] New file downloaded for this URL.
+[2026-05-02T18:23:37Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T18:23:37Z] Copying downloaded files to downloads
+[2026-05-02T18:23:37Z] Processing URL #5:
+[2026-05-02T18:23:38Z] https://www.tiktok.com/@abbieherbert/video/7590155261919202591
+[TikTok] Extracting URL: https://www.tiktok.com/@abbieherbert/video/7590155261919202591
+[TikTok] 7590155261919202591: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7590155261919202591: Downloading 1 format(s): bytevc1_1080p_1003561-1
+[download] Destination: tmp_downloads/abbieherbert/@abbieherbert_2025-12-31_THE END 🥹😭 still can’t believe I have 3 kids _7590155261919202591.mp4
+[download]   0.0% of   14.15MiB at  Unknown B/s ETA Unknown[download]   0.0% of   14.15MiB at  Unknown B/s ETA Unknown[download]   0.0% of   14.15MiB at    6.50MiB/s ETA 00:02  [download]   0.1% of   14.15MiB at    6.80MiB/s ETA 00:02[download]   0.2% of   14.15MiB at    4.49MiB/s ETA 00:03[download]   0.4% of   14.15MiB at    1.30MiB/s ETA 00:10[download]   0.9% of   14.15MiB at    1.77MiB/s ETA 00:07[download]   1.8% of   14.15MiB at    2.08MiB/s ETA 00:06[download]   3.5% of   14.15MiB at    2.54MiB/s ETA 00:05[download]   7.1% of   14.15MiB at    3.77MiB/s ETA 00:03[download]  14.1% of   14.15MiB at    5.68MiB/s ETA 00:02[download]  28.3% of   14.15MiB at    8.95MiB/s ETA 00:01[download]  56.5% of   14.15MiB at   14.75MiB/s ETA 00:00[download]  84.8% of   14.15MiB at   20.14MiB/s ETA 00:00[download] 100.0% of   14.15MiB at   22.52MiB/s ETA 00:00[download] 100% of   14.15MiB in 00:00:01 at 13.73MiB/s  
+[2026-05-02T18:23:40Z] New file downloaded for this URL.
+[2026-05-02T18:23:40Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T18:23:40Z] Copying downloaded files to downloads
+[2026-05-02T18:23:40Z] Preparing commit for: batch-1-after-5-successful-downloads
+[2026-05-02T18:23:40Z] Removing video files larger than 90MB from: downloads
