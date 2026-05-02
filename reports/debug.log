@@ -4348,3 +4348,70 @@ WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate 
 [2026-05-02T18:47:07Z] Copying downloaded files to downloads
 [2026-05-02T18:47:11Z] Preparing commit for: batch-64-after-320-successful-downloads
 [2026-05-02T18:47:11Z] Removing video files larger than 90MB from: downloads
+[main 0ab8ba2] Add downloaded TikTok files batch-64-after-320-successful-downloads [skip ci]
+ 7 files changed, 72 insertions(+)
+ create mode 100644 "downloads/angwitacho/@angwitacho_2026-04-27_I\342\200\231m funny, but idk if I\342\200\231m funny ha ha so we\342\200\231ll see \360\237\230\202_7633569111540321550.mp4"
+ create mode 100644 "downloads/angwitacho/@angwitacho_2026-04-28_It\342\200\231s really that serious for me \360\237\244\255 @michaelthemovie #michaeljackson #t..._7633877120468389133.mp4"
+ create mode 100644 downloads/angwitacho/@angwitacho_2026-04-29_Feels like someone froze my lady parts then poured hot lava on it #ho..._7634043204916071694.mp4
+ create mode 100644 "downloads/angwitacho/@angwitacho_2026-04-29_Spring looks are here \360\237\222\220\360\237\221\227 #ad @TJ Maxx Florals for spring\357\274\237 Truly groun..._7634226696983530765.mp4"
+ create mode 100644 "downloads/angwitacho/@angwitacho_2026-04-29_This feels like hellfire. Pull these off the shelves \360\237\230\255_7634025347008253197.mp4"
+To https://github.com/theSadeQ/tiktok-downloader-ignore90MB-4
+   0638d77..0ab8ba2  HEAD -> main
+[2026-05-02T18:47:18Z] Batch committed and pushed successfully: batch-64-after-320-successful-downloads
+[2026-05-02T18:47:18Z] Processing URL #325:
+[2026-05-02T18:47:18Z] https://www.tiktok.com/@angwitacho/video/7634270391589948686
+[TikTok] Extracting URL: https://www.tiktok.com/@angwitacho/video/7634270391589948686
+[TikTok] 7634270391589948686: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7634270391589948686: Downloading 1 format(s): h264_720p_1263040-1
+[download] Destination: tmp_downloads/angwitacho/@angwitacho_2026-04-29_The Devil Wears Prada 2 early screening w⧸ Threads @instagram @20th C..._7634270391589948686.mp4
+[download]   0.0% of    2.21MiB at  502.19KiB/s ETA 00:04[download]   0.1% of    2.21MiB at    1.30MiB/s ETA 00:01[download]   0.3% of    2.21MiB at    2.75MiB/s ETA 00:00[download]   0.7% of    2.21MiB at    5.17MiB/s ETA 00:00[download]   1.4% of    2.21MiB at    4.83MiB/s ETA 00:00[download]   2.8% of    2.21MiB at    1.36MiB/s ETA 00:01[download]   5.6% of    2.21MiB at    2.00MiB/s ETA 00:01[download]  11.3% of    2.21MiB at    2.15MiB/s ETA 00:00[download]  22.6% of    2.21MiB at    2.67MiB/s ETA 00:00[download]  45.3% of    2.21MiB at    3.69MiB/s ETA 00:00[download]  90.6% of    2.21MiB at    5.91MiB/s ETA 00:00[download] 100.0% of    2.21MiB at    6.05MiB/s ETA 00:00[download] 100% of    2.21MiB in 00:00:00 at 3.38MiB/s   
+[2026-05-02T18:47:20Z] New file downloaded for this URL.
+[2026-05-02T18:47:20Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T18:47:20Z] Copying downloaded files to downloads
+[2026-05-02T18:47:24Z] Processing URL #326:
+[2026-05-02T18:47:24Z] https://www.tiktok.com/@angwitacho/video/7634419268574088462
+[TikTok] Extracting URL: https://www.tiktok.com/@angwitacho/video/7634419268574088462
+[TikTok] 7634419268574088462: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7634419268574088462: Downloading 1 format(s): audio
+[download] Destination: tmp_downloads/angwitacho/@angwitacho_2026-04-30_My 2nd time seeing @michaelthemovie 🤭 I love it soo much 😭😭 I’m going_7634419268574088462.mp3
+[download]   0.1% of    1.87MiB at  Unknown B/s ETA Unknown[download]   0.2% of    1.87MiB at  Unknown B/s ETA Unknown[download]   0.4% of    1.87MiB at  Unknown B/s ETA Unknown[download]   0.8% of    1.87MiB at   13.51MiB/s ETA 00:00  [download]   1.6% of    1.87MiB at   22.35MiB/s ETA 00:00[download]   3.3% of    1.87MiB at   34.39MiB/s ETA 00:00[download]   6.6% of    1.87MiB at   34.58MiB/s ETA 00:00[download]  13.3% of    1.87MiB at   46.42MiB/s ETA 00:00[download]  26.6% of    1.87MiB at   54.77MiB/s ETA 00:00[download]  53.3% of    1.87MiB at   76.64MiB/s ETA 00:00[download] 100.0% of    1.87MiB at  101.18MiB/s ETA 00:00[download] 100% of    1.87MiB in 00:00:00 at 52.75MiB/s  
+[2026-05-02T18:47:25Z] New file downloaded for this URL.
+[2026-05-02T18:47:25Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T18:47:25Z] Copying downloaded files to downloads
+[2026-05-02T18:47:29Z] Processing URL #327:
+[2026-05-02T18:47:29Z] https://www.tiktok.com/@angwitacho/video/7634586658909719822
+[TikTok] Extracting URL: https://www.tiktok.com/@angwitacho/video/7634586658909719822
+[TikTok] 7634586658909719822: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7634586658909719822: Downloading 1 format(s): h264_720p_1296802-1
+[download] Destination: tmp_downloads/angwitacho/@angwitacho_2026-04-30_Wearing @Collina Strada to the @Tangle Teezer x @The Devil Wears Prad..._7634586658909719822.mp4
+[download]   0.1% of    1.12MiB at   26.61KiB/s ETA 00:43[download]   0.3% of    1.12MiB at   78.98KiB/s ETA 00:14[download]   0.6% of    1.12MiB at  182.69KiB/s ETA 00:06[download]   1.3% of    1.12MiB at  386.89KiB/s ETA 00:02[download]   2.7% of    1.12MiB at  486.18KiB/s ETA 00:02[download]   5.5% of    1.12MiB at  591.11KiB/s ETA 00:01[download]  11.0% of    1.12MiB at  966.73KiB/s ETA 00:01[download]  22.2% of    1.12MiB at    1.51MiB/s ETA 00:00[download]  44.4% of    1.12MiB at    2.53MiB/s ETA 00:00[download]  88.9% of    1.12MiB at    4.37MiB/s ETA 00:00[download] 100.0% of    1.12MiB at    4.79MiB/s ETA 00:00[download] 100% of    1.12MiB in 00:00:00 at 2.12MiB/s   
+[2026-05-02T18:47:30Z] New file downloaded for this URL.
+[2026-05-02T18:47:30Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T18:47:30Z] Copying downloaded files to downloads
+[2026-05-02T18:47:34Z] Processing URL #328:
+[2026-05-02T18:47:34Z] https://www.tiktok.com/@angwitacho/video/7635085174278999309
+[TikTok] Extracting URL: https://www.tiktok.com/@angwitacho/video/7635085174278999309
+[TikTok] 7635085174278999309: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7635085174278999309: Downloading 1 format(s): h264_720p_1365134-1
+[download] Destination: tmp_downloads/angwitacho/@angwitacho_2026-05-02_No spoilers! My first impressions of @The Devil Wears Prada 2! Thank ..._7635085174278999309.mp4
+[download]   0.0% of   17.53MiB at  Unknown B/s ETA Unknown[download]   0.0% of   17.53MiB at    2.28MiB/s ETA 00:07  [download]   0.0% of   17.53MiB at    4.12MiB/s ETA 00:04[download]   0.1% of   17.53MiB at    4.73MiB/s ETA 00:03[download]   0.2% of   17.53MiB at    4.02MiB/s ETA 00:04[download]   0.4% of   17.53MiB at    1.28MiB/s ETA 00:13[download]   0.7% of   17.53MiB at    2.00MiB/s ETA 00:08[download]   1.4% of   17.53MiB at    2.13MiB/s ETA 00:08[download]   2.8% of   17.53MiB at    2.64MiB/s ETA 00:06[download]   5.7% of   17.53MiB at    3.67MiB/s ETA 00:04[download]  11.4% of   17.53MiB at    5.54MiB/s ETA 00:02[download]  22.8% of   17.53MiB at    8.84MiB/s ETA 00:01[download]  45.6% of   17.53MiB at   14.71MiB/s ETA 00:00[download]  68.5% of   17.53MiB at   20.20MiB/s ETA 00:00[download]  91.3% of   17.53MiB at   25.15MiB/s ETA 00:00[download] 100.0% of   17.53MiB at   27.28MiB/s ETA 00:00[download] 100% of   17.53MiB in 00:00:00 at 20.82MiB/s  
+[2026-05-02T18:47:36Z] New file downloaded for this URL.
+[2026-05-02T18:47:36Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T18:47:36Z] Copying downloaded files to downloads
+[2026-05-02T18:47:40Z] Processing URL #329:
+[2026-05-02T18:47:40Z] https://www.tiktok.com/@annabel.lucinda/video/7589336007703596301
+[TikTok] Extracting URL: https://www.tiktok.com/@annabel.lucinda/video/7589336007703596301
+[TikTok] 7589336007703596301: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7589336007703596301: Downloading 1 format(s): bytevc1_1080p_1070941-1
+[download] Destination: tmp_downloads/annabel.lucinda/@annabel.lucinda_2025-12-29_the real annabel lucinda lol🧍🏼‍♀️ #wokeuplikethis #swag #shegotmoves_7589336007703596301.mp4
+[download]   0.0% of    2.43MiB at  Unknown B/s ETA Unknown[download]   0.1% of    2.43MiB at  Unknown B/s ETA Unknown[download]   0.3% of    2.43MiB at  Unknown B/s ETA Unknown[download]   0.6% of    2.43MiB at    9.05MiB/s ETA 00:00  [download]   1.2% of    2.43MiB at    5.03MiB/s ETA 00:00[download]   2.5% of    2.43MiB at    1.36MiB/s ETA 00:01[download]   5.1% of    2.43MiB at    2.00MiB/s ETA 00:01[download]  10.3% of    2.43MiB at    2.15MiB/s ETA 00:01[download]  20.6% of    2.43MiB at    2.65MiB/s ETA 00:00[download]  41.2% of    2.43MiB at    3.92MiB/s ETA 00:00[download]  82.4% of    2.43MiB at    5.91MiB/s ETA 00:00[download] 100.0% of    2.43MiB at    6.55MiB/s ETA 00:00[download] 100% of    2.43MiB in 00:00:00 at 3.31MiB/s   
+[2026-05-02T18:47:42Z] New file downloaded for this URL.
+[2026-05-02T18:47:42Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-02T18:47:42Z] Copying downloaded files to downloads
+[2026-05-02T18:47:46Z] Preparing commit for: batch-65-after-325-successful-downloads
+[2026-05-02T18:47:46Z] Removing video files larger than 90MB from: downloads
