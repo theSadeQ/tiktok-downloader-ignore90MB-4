@@ -27282,3 +27282,70 @@ WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate 
 [2026-05-03T06:48:52Z] Copying downloaded files to downloads
 [2026-05-03T06:48:53Z] Preparing commit for: batch-52-after-260-successful-downloads
 [2026-05-03T06:48:53Z] Removing video files larger than 90MB from: downloads
+[main 3e3bab6] Add downloaded TikTok files batch-52-after-260-successful-downloads [skip ci]
+ 7 files changed, 72 insertions(+)
+ create mode 100644 downloads/annaaullmann/@annaaullmann_2026-01-21_I didnt need the real William experience #pov #foryou #fyp _7597772694238645526.mp4
+ create mode 100644 downloads/annaaullmann/@annaaullmann_2026-01-21_it looked so weird #foryou #pov #fyp _7597884568082959638.mp4
+ create mode 100644 "downloads/annaaullmann/@annaaullmann_2026-01-21_knusprig #f\303\274rdich #foryou _7597818743716138262.mp4"
+ create mode 100644 "downloads/annaaullmann/@annaaullmann_2026-01-22_War so gut #f\303\274rdich #foryou _7598142052630531350.mp4"
+ create mode 100644 downloads/annaaullmann/@annaaullmann_2026-01-22_shes the pro #foryou #pov #fyp _7598018264916135190.mp4
+To https://github.com/theSadeQ/tiktok-downloader-ignore90MB-4
+   a42db7b..3e3bab6  HEAD -> main
+[2026-05-03T06:48:59Z] Batch committed and pushed successfully: batch-52-after-260-successful-downloads
+[2026-05-03T06:48:59Z] Processing URL #263:
+[2026-05-03T06:48:59Z] https://www.tiktok.com/@annaaullmann/video/7598190083333999894
+[TikTok] Extracting URL: https://www.tiktok.com/@annaaullmann/video/7598190083333999894
+[TikTok] 7598190083333999894: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7598190083333999894: Downloading 1 format(s): bytevc1_1080p_628034-1
+[download] Destination: tmp_downloads/annaaullmann/@annaaullmann_2026-01-22_mama und ich brauchen keine worte #fürdich #pov #foryou _7598190083333999894.mp4
+[download]   0.2% of  590.93KiB at   30.45KiB/s ETA 00:19[download]   0.5% of  590.93KiB at   90.29KiB/s ETA 00:06[download]   1.2% of  590.93KiB at  208.67KiB/s ETA 00:02[download]   2.5% of  590.93KiB at  442.70KiB/s ETA 00:01[download]   5.2% of  590.93KiB at  629.22KiB/s ETA 00:00[download]  10.7% of  590.93KiB at  860.74KiB/s ETA 00:00[download]  21.5% of  590.93KiB at    1.32MiB/s ETA 00:00[download]  43.2% of  590.93KiB at    2.12MiB/s ETA 00:00[download]  86.5% of  590.93KiB at    3.35MiB/s ETA 00:00[download] 100.0% of  590.93KiB at    3.64MiB/s ETA 00:00[download] 100% of  590.93KiB in 00:00:00 at 1.08MiB/s   
+[2026-05-03T06:49:00Z] New file downloaded for this URL.
+[2026-05-03T06:49:00Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:49:00Z] Copying downloaded files to downloads
+[2026-05-03T06:49:01Z] Processing URL #264:
+[2026-05-03T06:49:01Z] https://www.tiktok.com/@annaaullmann/video/7598227507439176983
+[TikTok] Extracting URL: https://www.tiktok.com/@annaaullmann/video/7598227507439176983
+[TikTok] 7598227507439176983: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7598227507439176983: Downloading 1 format(s): bytevc1_1080p_981242-1
+[download] Destination: tmp_downloads/annaaullmann/@annaaullmann_2026-01-22_man #foryou #pov #fyp _7598227507439176983.mp4
+[download]   0.1% of  690.77KiB at  Unknown B/s ETA Unknown[download]   0.4% of  690.77KiB at  Unknown B/s ETA Unknown[download]   1.0% of  690.77KiB at    6.74MiB/s ETA 00:00  [download]   2.2% of  690.77KiB at    7.13MiB/s ETA 00:00[download]   4.5% of  690.77KiB at    4.52MiB/s ETA 00:00[download]   9.1% of  690.77KiB at    1.29MiB/s ETA 00:00[download]  18.4% of  690.77KiB at    1.79MiB/s ETA 00:00[download]  36.9% of  690.77KiB at    1.96MiB/s ETA 00:00[download]  74.0% of  690.77KiB at    2.52MiB/s ETA 00:00[download] 100.0% of  690.77KiB at    3.08MiB/s ETA 00:00[download] 100% of  690.77KiB in 00:00:00 at 981.09KiB/s 
+[2026-05-03T06:49:03Z] New file downloaded for this URL.
+[2026-05-03T06:49:03Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:49:03Z] Copying downloaded files to downloads
+[2026-05-03T06:49:04Z] Processing URL #265:
+[2026-05-03T06:49:04Z] https://www.tiktok.com/@annaaullmann/video/7598247610427788566
+[TikTok] Extracting URL: https://www.tiktok.com/@annaaullmann/video/7598247610427788566
+[TikTok] 7598247610427788566: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7598247610427788566: Downloading 1 format(s): bytevc1_1080p_975212-1
+[download] Destination: tmp_downloads/annaaullmann/@annaaullmann_2026-01-22_glad to help #foryou #pov #fyp _7598247610427788566.mp4
+[download]   0.1% of  857.12KiB at  Unknown B/s ETA Unknown[download]   0.4% of  857.12KiB at  Unknown B/s ETA Unknown[download]   0.8% of  857.12KiB at  Unknown B/s ETA Unknown[download]   1.8% of  857.12KiB at    6.88MiB/s ETA 00:00  [download]   3.6% of  857.12KiB at    4.41MiB/s ETA 00:00[download]   7.4% of  857.12KiB at    1.28MiB/s ETA 00:00[download]  14.8% of  857.12KiB at    1.86MiB/s ETA 00:00[download]  29.8% of  857.12KiB at    1.96MiB/s ETA 00:00[download]  59.6% of  857.12KiB at    2.50MiB/s ETA 00:00[download] 100.0% of  857.12KiB at    3.31MiB/s ETA 00:00[download] 100% of  857.12KiB in 00:00:00 at 1.17MiB/s   
+[2026-05-03T06:49:06Z] New file downloaded for this URL.
+[2026-05-03T06:49:06Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:49:06Z] Copying downloaded files to downloads
+[2026-05-03T06:49:07Z] Processing URL #266:
+[2026-05-03T06:49:07Z] https://www.tiktok.com/@annaaullmann/video/7598297300129107222
+[TikTok] Extracting URL: https://www.tiktok.com/@annaaullmann/video/7598297300129107222
+[TikTok] 7598297300129107222: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7598297300129107222: Downloading 1 format(s): bytevc1_1080p_740446-1
+[download] Destination: tmp_downloads/annaaullmann/@annaaullmann_2026-01-22_shes so cute #pov #foryou #fyp _7598297300129107222.mp4
+[download]   0.1% of  837.61KiB at  Unknown B/s ETA Unknown[download]   0.4% of  837.61KiB at  Unknown B/s ETA Unknown[download]   0.8% of  837.61KiB at  Unknown B/s ETA Unknown[download]   1.8% of  837.61KiB at    7.30MiB/s ETA 00:00  [download]   3.7% of  837.61KiB at  269.32KiB/s ETA 00:02[download]   7.5% of  837.61KiB at  495.72KiB/s ETA 00:01[download]  15.2% of  837.61KiB at  513.80KiB/s ETA 00:01[download]  30.4% of  837.61KiB at  704.53KiB/s ETA 00:00[download]  61.0% of  837.61KiB at    1.04MiB/s ETA 00:00[download] 100.0% of  837.61KiB at    1.41MiB/s ETA 00:00[download] 100% of  837.61KiB in 00:00:01 at 607.07KiB/s 
+[2026-05-03T06:49:10Z] New file downloaded for this URL.
+[2026-05-03T06:49:10Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:49:10Z] Copying downloaded files to downloads
+[2026-05-03T06:49:11Z] Processing URL #267:
+[2026-05-03T06:49:11Z] https://www.tiktok.com/@annaaullmann/video/7598330002127490326
+[TikTok] Extracting URL: https://www.tiktok.com/@annaaullmann/video/7598330002127490326
+[TikTok] 7598330002127490326: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7598330002127490326: Downloading 1 format(s): bytevc1_1080p_945030-1
+[download] Destination: tmp_downloads/annaaullmann/@annaaullmann_2026-01-22_rate this 1-10 #foryou #fyp #pov #hezi _7598330002127490326.mp4
+[download]   0.1% of  742.23KiB at  Unknown B/s ETA Unknown[download]   0.4% of  742.23KiB at  Unknown B/s ETA Unknown[download]   0.9% of  742.23KiB at  Unknown B/s ETA Unknown[download]   2.0% of  742.23KiB at    8.27MiB/s ETA 00:00  [download]   4.2% of  742.23KiB at    4.77MiB/s ETA 00:00[download]   8.5% of  742.23KiB at    1.19MiB/s ETA 00:00[download]  17.1% of  742.23KiB at    1.83MiB/s ETA 00:00[download]  34.4% of  742.23KiB at    1.99MiB/s ETA 00:00[download]  68.8% of  742.23KiB at    2.50MiB/s ETA 00:00[download] 100.0% of  742.23KiB at    3.01MiB/s ETA 00:00[download] 100% of  742.23KiB in 00:00:00 at 1.13MiB/s   
+[2026-05-03T06:49:13Z] New file downloaded for this URL.
+[2026-05-03T06:49:13Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:49:13Z] Copying downloaded files to downloads
+[2026-05-03T06:49:14Z] Preparing commit for: batch-53-after-265-successful-downloads
+[2026-05-03T06:49:14Z] Removing video files larger than 90MB from: downloads
