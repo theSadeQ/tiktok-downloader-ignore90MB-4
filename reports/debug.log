@@ -23834,3 +23834,70 @@ WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate 
 [2026-05-03T06:35:50Z] Copying downloaded files to downloads
 [2026-05-03T06:35:50Z] Preparing commit for: batch-1-after-5-successful-downloads
 [2026-05-03T06:35:50Z] Removing video files larger than 90MB from: downloads
+[main 63dff72] Add downloaded TikTok files batch-1-after-5-successful-downloads [skip ci]
+ 7 files changed, 68 insertions(+)
+ create mode 100644 "downloads/1realjordanb/@1realjordanb_2026-01-09_Jordan B \357\274\232) #fyp_7593363610395610423.mp4"
+ create mode 100644 "downloads/1realjordanb/@1realjordanb_2026-01-11_Love my face \360\237\230\230 #fyp _7594002910413917495.mp4"
+ create mode 100644 "downloads/1realjordanb/@1realjordanb_2026-01-14_Houston Rockets NBA Game \342\235\244\357\270\217 #fyp _7595296553812659470.mp4"
+ create mode 100644 downloads/1realjordanb/@1realjordanb_2026-01-23_#fyp #JordanB _7598441465496358157.mp4
+ create mode 100644 "downloads/1realjordanb/@1realjordanb_2026-01-23_like if you wanna argue just say that \360\237\230\255\360\237\230\202 #fyp #JordanB_7598440579743239438.mp4"
+To https://github.com/theSadeQ/tiktok-downloader-ignore90MB-4
+   1b3e816..63dff72  HEAD -> main
+[2026-05-03T06:35:53Z] Batch committed and pushed successfully: batch-1-after-5-successful-downloads
+[2026-05-03T06:35:53Z] Processing URL #6:
+[2026-05-03T06:35:53Z] https://www.tiktok.com/@1realjordanb/video/7598582158353124663
+[TikTok] Extracting URL: https://www.tiktok.com/@1realjordanb/video/7598582158353124663
+[TikTok] 7598582158353124663: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7598582158353124663: Downloading 1 format(s): bytevc1_1080p_967635-1
+[download] Destination: tmp_downloads/1realjordanb/@1realjordanb_2026-01-23_#fyp #jordanb _7598582158353124663.mp4
+[download]   0.1% of    1.72MiB at  Unknown B/s ETA Unknown[download]   0.2% of    1.72MiB at  Unknown B/s ETA Unknown[download]   0.4% of    1.72MiB at  Unknown B/s ETA Unknown[download]   0.9% of    1.72MiB at    7.24MiB/s ETA 00:00  [download]   1.8% of    1.72MiB at    4.56MiB/s ETA 00:00[download]   3.6% of    1.72MiB at    1.29MiB/s ETA 00:01[download]   7.2% of    1.72MiB at    1.90MiB/s ETA 00:00[download]  14.5% of    1.72MiB at    2.02MiB/s ETA 00:00[download]  29.1% of    1.72MiB at    2.51MiB/s ETA 00:00[download]  58.2% of    1.72MiB at    3.75MiB/s ETA 00:00[download] 100.0% of    1.72MiB at    4.99MiB/s ETA 00:00[download] 100% of    1.72MiB in 00:00:00 at 2.64MiB/s   
+[2026-05-03T06:35:55Z] New file downloaded for this URL.
+[2026-05-03T06:35:55Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:35:55Z] Copying downloaded files to downloads
+[2026-05-03T06:35:55Z] Processing URL #7:
+[2026-05-03T06:35:55Z] https://www.tiktok.com/@1realjordanb/video/7598583626623700237
+[TikTok] Extracting URL: https://www.tiktok.com/@1realjordanb/video/7598583626623700237
+[TikTok] 7598583626623700237: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7598583626623700237: Downloading 1 format(s): bytevc1_1080p_787108-1
+[download] Destination: tmp_downloads/1realjordanb/@1realjordanb_2026-01-23_SHOP @JAOIRHAIR on Instagram 🫶🥰 #fyp #JordanB_7598583626623700237.mp4
+[download]   0.0% of    2.75MiB at  Unknown B/s ETA Unknown[download]   0.1% of    2.75MiB at  Unknown B/s ETA Unknown[download]   0.2% of    2.75MiB at  Unknown B/s ETA Unknown[download]   0.5% of    2.75MiB at    6.29MiB/s ETA 00:00  [download]   1.1% of    2.75MiB at    4.30MiB/s ETA 00:00[download]   2.2% of    2.75MiB at    1.28MiB/s ETA 00:02[download]   4.5% of    2.75MiB at    1.88MiB/s ETA 00:01[download]   9.0% of    2.75MiB at    2.02MiB/s ETA 00:01[download]  18.1% of    2.75MiB at    2.51MiB/s ETA 00:00[download]  36.3% of    2.75MiB at    3.76MiB/s ETA 00:00[download]  72.6% of    2.75MiB at    5.61MiB/s ETA 00:00[download] 100.0% of    2.75MiB at    6.85MiB/s ETA 00:00[download] 100% of    2.75MiB in 00:00:00 at 3.82MiB/s   
+[2026-05-03T06:35:57Z] New file downloaded for this URL.
+[2026-05-03T06:35:57Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:35:57Z] Copying downloaded files to downloads
+[2026-05-03T06:35:57Z] Processing URL #8:
+[2026-05-03T06:35:57Z] https://www.tiktok.com/@1realjordanb/video/7598974585765203213
+[TikTok] Extracting URL: https://www.tiktok.com/@1realjordanb/video/7598974585765203213
+[TikTok] 7598974585765203213: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7598974585765203213: Downloading 1 format(s): bytevc1_1080p_1325398-1
+[download] Destination: tmp_downloads/1realjordanb/@1realjordanb_2026-01-24_#JordanB #Fyp 💕_7598974585765203213.mp4
+[download]   0.0% of    2.35MiB at  Unknown B/s ETA Unknown[download]   0.1% of    2.35MiB at  Unknown B/s ETA Unknown[download]   0.3% of    2.35MiB at  Unknown B/s ETA Unknown[download]   0.6% of    2.35MiB at    5.64MiB/s ETA 00:00  [download]   1.3% of    2.35MiB at    4.18MiB/s ETA 00:00[download]   2.6% of    2.35MiB at    1.27MiB/s ETA 00:01[download]   5.3% of    2.35MiB at    1.87MiB/s ETA 00:01[download]  10.6% of    2.35MiB at    2.01MiB/s ETA 00:01[download]  21.2% of    2.35MiB at    2.49MiB/s ETA 00:00[download]  42.5% of    2.35MiB at    3.74MiB/s ETA 00:00[download]  85.0% of    2.35MiB at    5.59MiB/s ETA 00:00[download] 100.0% of    2.35MiB at    6.02MiB/s ETA 00:00[download] 100% of    2.35MiB in 00:00:00 at 2.99MiB/s   
+[2026-05-03T06:35:58Z] New file downloaded for this URL.
+[2026-05-03T06:35:58Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:35:58Z] Copying downloaded files to downloads
+[2026-05-03T06:35:58Z] Processing URL #9:
+[2026-05-03T06:35:58Z] https://www.tiktok.com/@1realjordanb/video/7599159918662323511
+[TikTok] Extracting URL: https://www.tiktok.com/@1realjordanb/video/7599159918662323511
+[TikTok] 7599159918662323511: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7599159918662323511: Downloading 1 format(s): audio
+[download] Destination: tmp_downloads/1realjordanb/@1realjordanb_2026-01-25_it’s no me without you ♾️❤️🌍 _7599159918662323511.m4a
+[download]   0.3% of  368.95KiB at  Unknown B/s ETA Unknown[download]   0.8% of  368.95KiB at  Unknown B/s ETA Unknown[download]   1.9% of  368.95KiB at  Unknown B/s ETA Unknown[download]   4.1% of  368.95KiB at  Unknown B/s ETA Unknown[download]   8.4% of  368.95KiB at   22.44MiB/s ETA 00:00  [download]  17.1% of  368.95KiB at   37.13MiB/s ETA 00:00[download]  34.4% of  368.95KiB at   32.19MiB/s ETA 00:00[download]  69.1% of  368.95KiB at   37.91MiB/s ETA 00:00[download] 100.0% of  368.95KiB at   45.60MiB/s ETA 00:00[download] 100% of  368.95KiB in 00:00:00 at 12.45MiB/s  
+[2026-05-03T06:35:59Z] New file downloaded for this URL.
+[2026-05-03T06:35:59Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:35:59Z] Copying downloaded files to downloads
+[2026-05-03T06:35:59Z] Processing URL #10:
+[2026-05-03T06:35:59Z] https://www.tiktok.com/@1realjordanb/video/7599720907770187038
+[TikTok] Extracting URL: https://www.tiktok.com/@1realjordanb/video/7599720907770187038
+[TikTok] 7599720907770187038: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7599720907770187038: Downloading 1 format(s): h264_720p_740329-1
+[download] Destination: tmp_downloads/1realjordanb/@1realjordanb_2026-01-26_ONLY BOY MOMS UNDERSTAND 😂 real life Velcro  baby !!! #fyp #Jordanb _7599720907770187038.mp4
+[download]   0.0% of    2.26MiB at  Unknown B/s ETA Unknown[download]   0.1% of    2.26MiB at    2.83MiB/s ETA 00:00  [download]   0.3% of    2.26MiB at    5.04MiB/s ETA 00:00[download]   0.6% of    2.26MiB at    5.19MiB/s ETA 00:00[download]   1.3% of    2.26MiB at    4.07MiB/s ETA 00:00[download]   2.7% of    2.26MiB at    1.29MiB/s ETA 00:01[download]   5.5% of    2.26MiB at    1.69MiB/s ETA 00:01[download]  11.0% of    2.26MiB at    2.06MiB/s ETA 00:00[download]  22.1% of    2.26MiB at    2.53MiB/s ETA 00:00[download]  44.2% of    2.26MiB at    3.79MiB/s ETA 00:00[download]  88.4% of    2.26MiB at    5.64MiB/s ETA 00:00[download] 100.0% of    2.26MiB at    5.89MiB/s ETA 00:00[download] 100% of    2.26MiB in 00:00:00 at 2.70MiB/s   
+[2026-05-03T06:36:01Z] New file downloaded for this URL.
+[2026-05-03T06:36:01Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:36:01Z] Copying downloaded files to downloads
+[2026-05-03T06:36:01Z] Preparing commit for: batch-2-after-10-successful-downloads
+[2026-05-03T06:36:01Z] Removing video files larger than 90MB from: downloads
