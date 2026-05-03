@@ -7609,3 +7609,70 @@ WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate 
 [2026-05-03T03:14:49Z] Copying downloaded files to downloads
 [2026-05-03T03:14:49Z] Preparing commit for: batch-3-after-15-successful-downloads
 [2026-05-03T03:14:49Z] Removing video files larger than 90MB from: downloads
+[main 1d125f1] Add downloaded TikTok files batch-3-after-15-successful-downloads [skip ci]
+ 7 files changed, 72 insertions(+)
+ create mode 100644 "downloads/leahrosedooley/@leahrosedooley_2026-02-08_casual night\357\274\237 never. _7604374934860696863.mp4"
+ create mode 100644 downloads/leahrosedooley/@leahrosedooley_2026-02-08_super bowl fit!_7604613398667545887.mp4
+ create mode 100644 downloads/leahrosedooley/@leahrosedooley_2026-02-15_can you tell how i feel rn_7606928242150231326.mp4
+ create mode 100644 downloads/leahrosedooley/@leahrosedooley_2026-02-15_rollers in and wine out #valentines _7607145758789209375.mp4
+ create mode 100644 downloads/leahrosedooley/@leahrosedooley_2026-02-15_yeah_7606981858965982495.mp4
+To https://github.com/theSadeQ/tiktok-downloader-ignore90MB-4
+   329195c..1d125f1  HEAD -> main
+[2026-05-03T03:14:51Z] Batch committed and pushed successfully: batch-3-after-15-successful-downloads
+[2026-05-03T03:14:51Z] Processing URL #16:
+[2026-05-03T03:14:51Z] https://www.tiktok.com/@leahrosedooley/video/7607314425527176478
+[TikTok] Extracting URL: https://www.tiktok.com/@leahrosedooley/video/7607314425527176478
+[TikTok] 7607314425527176478: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7607314425527176478: Downloading 1 format(s): bytevc1_720p_715321-1
+[download] Destination: tmp_downloads/leahrosedooley/@leahrosedooley_2026-02-16_men will try anything these days…@raha _7607314425527176478.mp4
+[download]   0.1% of  902.36KiB at  Unknown B/s ETA Unknown[download]   0.3% of  902.36KiB at  Unknown B/s ETA Unknown[download]   0.8% of  902.36KiB at  Unknown B/s ETA Unknown[download]   1.7% of  902.36KiB at   12.43MiB/s ETA 00:00  [download]   3.4% of  902.36KiB at    1.74MiB/s ETA 00:00[download]   7.0% of  902.36KiB at    3.27MiB/s ETA 00:00[download]  14.1% of  902.36KiB at    3.21MiB/s ETA 00:00[download]  28.3% of  902.36KiB at    4.32MiB/s ETA 00:00[download]  56.6% of  902.36KiB at    6.50MiB/s ETA 00:00[download] 100.0% of  902.36KiB at    9.19MiB/s ETA 00:00[download] 100% of  902.36KiB in 00:00:00 at 2.53MiB/s   
+[2026-05-03T03:14:53Z] New file downloaded for this URL.
+[2026-05-03T03:14:53Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:14:53Z] Copying downloaded files to downloads
+[2026-05-03T03:14:53Z] Processing URL #17:
+[2026-05-03T03:14:53Z] https://www.tiktok.com/@leahrosedooley/video/7609437969254042910
+[TikTok] Extracting URL: https://www.tiktok.com/@leahrosedooley/video/7609437969254042910
+[TikTok] 7609437969254042910: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7609437969254042910: Downloading 1 format(s): bytevc1_1080p_6288902-1
+[download] Destination: tmp_downloads/leahrosedooley/@leahrosedooley_2026-02-21_beach_7609437969254042910.mp4
+[download]   0.0% of    4.60MiB at  Unknown B/s ETA Unknown[download]   0.1% of    4.60MiB at  Unknown B/s ETA Unknown[download]   0.1% of    4.60MiB at    6.49MiB/s ETA 00:00  [download]   0.3% of    4.60MiB at   11.15MiB/s ETA 00:00[download]   0.7% of    4.60MiB at   18.95MiB/s ETA 00:00[download]   1.3% of    4.60MiB at    2.91MiB/s ETA 00:01[download]   2.7% of    4.60MiB at    2.91MiB/s ETA 00:01[download]   5.4% of    4.60MiB at    3.87MiB/s ETA 00:01[download]  10.9% of    4.60MiB at    5.99MiB/s ETA 00:00[download]  21.7% of    4.60MiB at    9.50MiB/s ETA 00:00[download]  43.5% of    4.60MiB at   15.92MiB/s ETA 00:00[download]  87.0% of    4.60MiB at   27.15MiB/s ETA 00:00[download] 100.0% of    4.60MiB at   30.35MiB/s ETA 00:00[download] 100% of    4.60MiB in 00:00:00 at 8.83MiB/s   
+[2026-05-03T03:14:54Z] New file downloaded for this URL.
+[2026-05-03T03:14:54Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:14:54Z] Copying downloaded files to downloads
+[2026-05-03T03:14:54Z] Processing URL #18:
+[2026-05-03T03:14:54Z] https://www.tiktok.com/@leahrosedooley/video/7611735017718304031
+[TikTok] Extracting URL: https://www.tiktok.com/@leahrosedooley/video/7611735017718304031
+[TikTok] 7611735017718304031: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7611735017718304031: Downloading 1 format(s): bytevc1_720p_634140-1
+[download] Destination: tmp_downloads/leahrosedooley/@leahrosedooley_2026-02-28_serious question. can you tell what show i’m obsessed with rn？_7611735017718304031.mp4
+[download]   0.1% of  787.18KiB at  Unknown B/s ETA Unknown[download]   0.4% of  787.18KiB at  Unknown B/s ETA Unknown[download]   0.9% of  787.18KiB at  Unknown B/s ETA Unknown[download]   1.9% of  787.18KiB at   12.00MiB/s ETA 00:00  [download]   3.9% of  787.18KiB at   17.95MiB/s ETA 00:00[download]   8.0% of  787.18KiB at    3.03MiB/s ETA 00:00[download]  16.1% of  787.18KiB at    2.97MiB/s ETA 00:00[download]  32.4% of  787.18KiB at    4.14MiB/s ETA 00:00[download]  64.9% of  787.18KiB at    6.29MiB/s ETA 00:00[download] 100.0% of  787.18KiB at    8.83MiB/s ETA 00:00[download] 100% of  787.18KiB in 00:00:00 at 1.88MiB/s   
+[2026-05-03T03:14:56Z] New file downloaded for this URL.
+[2026-05-03T03:14:56Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:14:56Z] Copying downloaded files to downloads
+[2026-05-03T03:14:56Z] Processing URL #19:
+[2026-05-03T03:14:56Z] https://www.tiktok.com/@leahrosedooley/video/7611806339504917791
+[TikTok] Extracting URL: https://www.tiktok.com/@leahrosedooley/video/7611806339504917791
+[TikTok] 7611806339504917791: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7611806339504917791: Downloading 1 format(s): bytevc1_1080p_1011166-1
+[download] Destination: tmp_downloads/leahrosedooley/@leahrosedooley_2026-02-28_ft our vacuum_7611806339504917791.mp4
+[download]   0.1% of    1.60MiB at  Unknown B/s ETA Unknown[download]   0.2% of    1.60MiB at  Unknown B/s ETA Unknown[download]   0.4% of    1.60MiB at  Unknown B/s ETA Unknown[download]   0.9% of    1.60MiB at   12.62MiB/s ETA 00:00  [download]   1.9% of    1.60MiB at   20.75MiB/s ETA 00:00[download]   3.8% of    1.60MiB at    2.69MiB/s ETA 00:00[download]   7.7% of    1.60MiB at    3.06MiB/s ETA 00:00[download]  15.5% of    1.60MiB at    4.08MiB/s ETA 00:00[download]  31.1% of    1.60MiB at    5.94MiB/s ETA 00:00[download]  62.3% of    1.60MiB at    9.62MiB/s ETA 00:00[download] 100.0% of    1.60MiB at   13.82MiB/s ETA 00:00[download] 100% of    1.60MiB in 00:00:00 at 3.64MiB/s   
+[2026-05-03T03:14:57Z] New file downloaded for this URL.
+[2026-05-03T03:14:57Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:14:57Z] Copying downloaded files to downloads
+[2026-05-03T03:14:57Z] Processing URL #20:
+[2026-05-03T03:14:57Z] https://www.tiktok.com/@leahrosedooley/video/7612212757420657950
+[TikTok] Extracting URL: https://www.tiktok.com/@leahrosedooley/video/7612212757420657950
+[TikTok] 7612212757420657950: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7612212757420657950: Downloading 1 format(s): bytevc1_720p_914828-1
+[download] Destination: tmp_downloads/leahrosedooley/@leahrosedooley_2026-03-01_the hair and makeup check #hehe _7612212757420657950.mp4
+[download]   0.1% of    1.55MiB at  Unknown B/s ETA Unknown[download]   0.2% of    1.55MiB at  Unknown B/s ETA Unknown[download]   0.4% of    1.55MiB at  Unknown B/s ETA Unknown[download]   0.9% of    1.55MiB at   12.01MiB/s ETA 00:00  [download]   2.0% of    1.55MiB at   17.90MiB/s ETA 00:00[download]   4.0% of    1.55MiB at    2.60MiB/s ETA 00:00[download]   8.0% of    1.55MiB at    2.48MiB/s ETA 00:00[download]  16.1% of    1.55MiB at    3.85MiB/s ETA 00:00[download]  32.2% of    1.55MiB at    5.29MiB/s ETA 00:00[download]  64.5% of    1.55MiB at    6.92MiB/s ETA 00:00[download] 100.0% of    1.55MiB at   10.06MiB/s ETA 00:00[download] 100% of    1.55MiB in 00:00:00 at 3.92MiB/s   
+[2026-05-03T03:14:59Z] New file downloaded for this URL.
+[2026-05-03T03:14:59Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:14:59Z] Copying downloaded files to downloads
+[2026-05-03T03:14:59Z] Preparing commit for: batch-4-after-20-successful-downloads
+[2026-05-03T03:14:59Z] Removing video files larger than 90MB from: downloads
