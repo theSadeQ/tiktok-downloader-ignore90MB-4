@@ -24586,3 +24586,70 @@ WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate 
 [2026-05-03T06:38:14Z] Copying downloaded files to downloads
 [2026-05-03T06:38:14Z] Preparing commit for: batch-12-after-60-successful-downloads
 [2026-05-03T06:38:14Z] Removing video files larger than 90MB from: downloads
+[main 6efd406] Add downloaded TikTok files batch-12-after-60-successful-downloads [skip ci]
+ 7 files changed, 72 insertions(+)
+ create mode 100644 "downloads/andreadalmauvalls/@andreadalmauvalls_2026-03-16_publi. Cosas que me gustan de la gente parte 1 \360\237\244\244\342\234\250\360\237\252\273 la segunda es un M..._7617888347461127446.mp4"
+ create mode 100644 downloads/andreadalmauvalls/@andreadalmauvalls_2026-03-18_TikTok video #7618644605164080406_7618644605164080406.mp4
+ create mode 100644 downloads/andreadalmauvalls/@andreadalmauvalls_2026-03-21_Comer comer y comer_7619754327372008726.mp4
+ create mode 100644 "downloads/andreadalmauvalls/@andreadalmauvalls_2026-03-22_Podr\303\255amos decir que es uno de los mejores desayunos\357\274\237 _7620056037499899158.mp4"
+ create mode 100644 downloads/andreadalmauvalls/@andreadalmauvalls_2026-03-25_Mi workout de hoy _7621251783704497430.mp4
+To https://github.com/theSadeQ/tiktok-downloader-ignore90MB-4
+   5d9ab61..6efd406  HEAD -> main
+[2026-05-03T06:38:19Z] Batch committed and pushed successfully: batch-12-after-60-successful-downloads
+[2026-05-03T06:38:19Z] Processing URL #62:
+[2026-05-03T06:38:19Z] https://www.tiktok.com/@andreadalmauvalls/video/7621258739860966678
+[TikTok] Extracting URL: https://www.tiktok.com/@andreadalmauvalls/video/7621258739860966678
+[TikTok] 7621258739860966678: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7621258739860966678: Downloading 1 format(s): bytevc1_1080p_1304956-1
+[download] Destination: tmp_downloads/andreadalmauvalls/@andreadalmauvalls_2026-03-25_#makup _7621258739860966678.mp4
+[download]   0.0% of    7.74MiB at  Unknown B/s ETA Unknown[download]   0.0% of    7.74MiB at  Unknown B/s ETA Unknown[download]   0.1% of    7.74MiB at  Unknown B/s ETA Unknown[download]   0.2% of    7.74MiB at    6.55MiB/s ETA 00:01  [download]   0.4% of    7.74MiB at    4.21MiB/s ETA 00:01[download]   0.8% of    7.74MiB at    1.22MiB/s ETA 00:06[download]   1.6% of    7.74MiB at    1.71MiB/s ETA 00:04[download]   3.2% of    7.74MiB at    1.88MiB/s ETA 00:03[download]   6.4% of    7.74MiB at    2.37MiB/s ETA 00:03[download]  12.9% of    7.74MiB at    3.48MiB/s ETA 00:01[download]  25.8% of    7.74MiB at    5.31MiB/s ETA 00:01[download]  51.6% of    7.74MiB at    8.40MiB/s ETA 00:00[download] 100.0% of    7.74MiB at   13.46MiB/s ETA 00:00[download] 100% of    7.74MiB in 00:00:01 at 7.08MiB/s   
+[2026-05-03T06:38:21Z] New file downloaded for this URL.
+[2026-05-03T06:38:21Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:38:21Z] Copying downloaded files to downloads
+[2026-05-03T06:38:21Z] Processing URL #63:
+[2026-05-03T06:38:21Z] https://www.tiktok.com/@andreadalmauvalls/video/7621923811675376918
+[TikTok] Extracting URL: https://www.tiktok.com/@andreadalmauvalls/video/7621923811675376918
+[TikTok] 7621923811675376918: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7621923811675376918: Downloading 1 format(s): bytevc1_1080p_2031132-1
+[download] Destination: tmp_downloads/andreadalmauvalls/@andreadalmauvalls_2026-03-27_TikTok video #7621923811675376918_7621923811675376918.mp4
+[download]   0.0% of   11.53MiB at  469.58KiB/s ETA 00:25[download]   0.0% of   11.53MiB at    1.21MiB/s ETA 00:09[download]   0.1% of   11.53MiB at    2.54MiB/s ETA 00:04[download]   0.1% of   11.53MiB at    5.00MiB/s ETA 00:02[download]   0.3% of   11.53MiB at    4.48MiB/s ETA 00:02[download]   0.5% of   11.53MiB at    1.17MiB/s ETA 00:09[download]   1.1% of   11.53MiB at    1.75MiB/s ETA 00:06[download]   2.2% of   11.53MiB at    1.92MiB/s ETA 00:05[download]   4.3% of   11.53MiB at    2.43MiB/s ETA 00:04[download]   8.7% of   11.53MiB at    3.60MiB/s ETA 00:02[download]  17.3% of   11.53MiB at    5.50MiB/s ETA 00:01[download]  34.7% of   11.53MiB at    8.71MiB/s ETA 00:00[download]  69.4% of   11.53MiB at   14.39MiB/s ETA 00:00[download] 100.0% of   11.53MiB at   19.02MiB/s ETA 00:00[download] 100% of   11.53MiB in 00:00:01 at 10.48MiB/s  
+[2026-05-03T06:38:23Z] New file downloaded for this URL.
+[2026-05-03T06:38:23Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:38:23Z] Copying downloaded files to downloads
+[2026-05-03T06:38:23Z] Processing URL #64:
+[2026-05-03T06:38:23Z] https://www.tiktok.com/@andreadalmauvalls/video/7621926202919423254
+[TikTok] Extracting URL: https://www.tiktok.com/@andreadalmauvalls/video/7621926202919423254
+[TikTok] 7621926202919423254: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7621926202919423254: Downloading 1 format(s): bytevc1_1080p_1865709-1
+[download] Destination: tmp_downloads/andreadalmauvalls/@andreadalmauvalls_2026-03-27_#zarahaul_7621926202919423254.mp4
+[download]   0.0% of    6.25MiB at  Unknown B/s ETA Unknown[download]   0.0% of    6.25MiB at  Unknown B/s ETA Unknown[download]   0.1% of    6.25MiB at  Unknown B/s ETA 00:00  [download]   0.2% of    6.25MiB at    7.15MiB/s ETA 00:00[download]   0.5% of    6.25MiB at    4.64MiB/s ETA 00:01[download]   1.0% of    6.25MiB at    1.33MiB/s ETA 00:04[download]   2.0% of    6.25MiB at    1.94MiB/s ETA 00:03[download]   4.0% of    6.25MiB at    2.02MiB/s ETA 00:02[download]   8.0% of    6.25MiB at    2.60MiB/s ETA 00:02[download]  16.0% of    6.25MiB at    3.60MiB/s ETA 00:01[download]  32.0% of    6.25MiB at    5.71MiB/s ETA 00:00[download]  64.0% of    6.25MiB at    9.06MiB/s ETA 00:00[download] 100.0% of    6.25MiB at   12.19MiB/s ETA 00:00[download] 100% of    6.25MiB in 00:00:01 at 6.24MiB/s   
+[2026-05-03T06:38:25Z] New file downloaded for this URL.
+[2026-05-03T06:38:25Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:38:25Z] Copying downloaded files to downloads
+[2026-05-03T06:38:26Z] Processing URL #65:
+[2026-05-03T06:38:26Z] https://www.tiktok.com/@andreadalmauvalls/video/7624112758102969622
+[TikTok] Extracting URL: https://www.tiktok.com/@andreadalmauvalls/video/7624112758102969622
+[TikTok] 7624112758102969622: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7624112758102969622: Downloading 1 format(s): bytevc1_1080p_777814-1
+[download] Destination: tmp_downloads/andreadalmauvalls/@andreadalmauvalls_2026-04-02_TikTok video #7624112758102969622_7624112758102969622.mp4
+[download]   0.1% of  855.29KiB at  Unknown B/s ETA Unknown[download]   0.4% of  855.29KiB at  Unknown B/s ETA Unknown[download]   0.8% of  855.29KiB at  Unknown B/s ETA Unknown[download]   1.8% of  855.29KiB at    6.12MiB/s ETA 00:00  [download]   3.6% of  855.29KiB at    4.01MiB/s ETA 00:00[download]   7.4% of  855.29KiB at    1.08MiB/s ETA 00:00[download]  14.8% of  855.29KiB at    1.62MiB/s ETA 00:00[download]  29.8% of  855.29KiB at    1.79MiB/s ETA 00:00[download]  59.7% of  855.29KiB at    2.27MiB/s ETA 00:00[download] 100.0% of  855.29KiB at    2.99MiB/s ETA 00:00[download] 100% of  855.29KiB in 00:00:00 at 1.13MiB/s   
+[2026-05-03T06:38:27Z] New file downloaded for this URL.
+[2026-05-03T06:38:27Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:38:27Z] Copying downloaded files to downloads
+[2026-05-03T06:38:28Z] Processing URL #66:
+[2026-05-03T06:38:28Z] https://www.tiktok.com/@andreadalmauvalls/video/7627822187000466710
+[TikTok] Extracting URL: https://www.tiktok.com/@andreadalmauvalls/video/7627822187000466710
+[TikTok] 7627822187000466710: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7627822187000466710: Downloading 1 format(s): bytevc1_1080p_1163636-1
+[download] Destination: tmp_downloads/andreadalmauvalls/@andreadalmauvalls_2026-04-12_Fit check bbys _7627822187000466710.mp4
+[download]   0.1% of    1.90MiB at  Unknown B/s ETA Unknown[download]   0.2% of    1.90MiB at    2.42MiB/s ETA 00:00  [download]   0.4% of    1.90MiB at    4.16MiB/s ETA 00:00[download]   0.8% of    1.90MiB at    4.81MiB/s ETA 00:00[download]   1.6% of    1.90MiB at    2.35MiB/s ETA 00:00[download]   3.2% of    1.90MiB at    1.11MiB/s ETA 00:01[download]   6.5% of    1.90MiB at    1.79MiB/s ETA 00:00[download]  13.1% of    1.90MiB at    1.90MiB/s ETA 00:00[download]  26.3% of    1.90MiB at    2.28MiB/s ETA 00:00[download]  52.7% of    1.90MiB at    3.40MiB/s ETA 00:00[download] 100.0% of    1.90MiB at    4.89MiB/s ETA 00:00[download] 100% of    1.90MiB in 00:00:00 at 2.19MiB/s   
+[2026-05-03T06:38:29Z] New file downloaded for this URL.
+[2026-05-03T06:38:29Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T06:38:29Z] Copying downloaded files to downloads
+[2026-05-03T06:38:30Z] Preparing commit for: batch-13-after-65-successful-downloads
+[2026-05-03T06:38:30Z] Removing video files larger than 90MB from: downloads
