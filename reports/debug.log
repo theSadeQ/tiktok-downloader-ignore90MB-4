@@ -21882,3 +21882,70 @@ WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate 
 [2026-05-03T05:02:44Z] Copying downloaded files to downloads
 [2026-05-03T05:02:53Z] Preparing commit for: batch-215-after-1075-successful-downloads
 [2026-05-03T05:02:53Z] Removing video files larger than 90MB from: downloads
+[main 4f3e37d] Add downloaded TikTok files batch-215-after-1075-successful-downloads [skip ci]
+ 7 files changed, 72 insertions(+)
+ create mode 100644 downloads/ninatoriello/@ninatoriello_2026-03-18_TikTok video #7618393752201170197_7618393752201170197.mp4
+ create mode 100644 downloads/ninatoriello/@ninatoriello_2026-03-18_TikTok video #7618689187713273109_7618689187713273109.m4a
+ create mode 100644 downloads/ninatoriello/@ninatoriello_2026-03-18_TikTok video #7618699497815772437_7618699497815772437.mp4
+ create mode 100644 "downloads/ninatoriello/@ninatoriello_2026-03-18_Voc\303\252 e sua melhor amiga t\303\252m uma competi\303\247\303\243o de coc\303\264 todo m\303\252s\357\274\236\357\274\236\357\274\236_7618394947305213205.m4a"
+ create mode 100644 downloads/ninatoriello/@ninatoriello_2026-03-19_TikTok video #7619065536705596692_7619065536705596692.mp4
+To https://github.com/theSadeQ/tiktok-downloader-ignore90MB-4
+   6778b2d..4f3e37d  HEAD -> main
+[2026-05-03T05:03:07Z] Batch committed and pushed successfully: batch-215-after-1075-successful-downloads
+[2026-05-03T05:03:07Z] Processing URL #1080:
+[2026-05-03T05:03:07Z] https://www.tiktok.com/@ninatoriello/video/7619076629402258709
+[TikTok] Extracting URL: https://www.tiktok.com/@ninatoriello/video/7619076629402258709
+[TikTok] 7619076629402258709: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7619076629402258709: Downloading 1 format(s): bytevc1_1080p_1126616-1
+[download] Destination: tmp_downloads/ninatoriello/@ninatoriello_2026-03-19_TikTok video #7619076629402258709_7619076629402258709.mp4
+[download]   0.0% of   11.22MiB at  Unknown B/s ETA Unknown[download]   0.0% of   11.22MiB at  Unknown B/s ETA Unknown[download]   0.1% of   11.22MiB at    5.96MiB/s ETA 00:01  [download]   0.1% of   11.22MiB at   10.36MiB/s ETA 00:01[download]   0.3% of   11.22MiB at   17.33MiB/s ETA 00:00[download]   0.5% of   11.22MiB at   28.36MiB/s ETA 00:00[download]   1.1% of   11.22MiB at   35.34MiB/s ETA 00:00[download]   2.2% of   11.22MiB at   44.80MiB/s ETA 00:00[download]   4.4% of   11.22MiB at   66.69MiB/s ETA 00:00[download]   8.9% of   11.22MiB at   94.26MiB/s ETA 00:00[download]  17.8% of   11.22MiB at  144.86MiB/s ETA 00:00[download]  35.6% of   11.22MiB at  215.59MiB/s ETA 00:00[download]  71.3% of   11.22MiB at  285.22MiB/s ETA 00:00[download] 100.0% of   11.22MiB at  327.01MiB/s ETA 00:00[download] 100% of   11.22MiB in 00:00:00 at 203.10MiB/s 
+[2026-05-03T05:03:08Z] New file downloaded for this URL.
+[2026-05-03T05:03:08Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T05:03:08Z] Copying downloaded files to downloads
+[2026-05-03T05:03:17Z] Processing URL #1081:
+[2026-05-03T05:03:17Z] https://www.tiktok.com/@ninatoriello/video/7619140537278385429
+[TikTok] Extracting URL: https://www.tiktok.com/@ninatoriello/video/7619140537278385429
+[TikTok] 7619140537278385429: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7619140537278385429: Downloading 1 format(s): bytevc1_1080p_1447451-1
+[download] Destination: tmp_downloads/ninatoriello/@ninatoriello_2026-03-20_TikTok video #7619140537278385429_7619140537278385429.mp4
+[download]   0.0% of    2.59MiB at  Unknown B/s ETA Unknown[download]   0.1% of    2.59MiB at    2.57MiB/s ETA 00:01  [download]   0.3% of    2.59MiB at    4.83MiB/s ETA 00:00[download]   0.6% of    2.59MiB at    8.56MiB/s ETA 00:00[download]   1.2% of    2.59MiB at   15.19MiB/s ETA 00:00[download]   2.4% of    2.59MiB at   25.37MiB/s ETA 00:00[download]   4.8% of    2.59MiB at   32.73MiB/s ETA 00:00[download]   9.6% of    2.59MiB at   40.14MiB/s ETA 00:00[download]  19.2% of    2.59MiB at   55.68MiB/s ETA 00:00[download]  38.5% of    2.59MiB at   82.59MiB/s ETA 00:00[download]  77.1% of    2.59MiB at  128.21MiB/s ETA 00:00[download] 100.0% of    2.59MiB at  154.51MiB/s ETA 00:00[download] 100% of    2.59MiB in 00:00:00 at 56.40MiB/s  
+[2026-05-03T05:03:18Z] New file downloaded for this URL.
+[2026-05-03T05:03:18Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T05:03:18Z] Copying downloaded files to downloads
+[2026-05-03T05:03:28Z] Processing URL #1082:
+[2026-05-03T05:03:28Z] https://www.tiktok.com/@ninatoriello/video/7619296216320363796
+[TikTok] Extracting URL: https://www.tiktok.com/@ninatoriello/video/7619296216320363796
+[TikTok] 7619296216320363796: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7619296216320363796: Downloading 1 format(s): audio
+[download] Destination: tmp_downloads/ninatoriello/@ninatoriello_2026-03-20_TikTok video #7619296216320363796_7619296216320363796.mp3
+[download]   0.5% of  217.88KiB at  Unknown B/s ETA Unknown[download]   1.4% of  217.88KiB at  Unknown B/s ETA Unknown[download]   3.2% of  217.88KiB at  Unknown B/s ETA Unknown[download]   6.9% of  217.88KiB at   12.07MiB/s ETA 00:00  [download]  14.2% of  217.88KiB at   19.65MiB/s ETA 00:00[download]  28.9% of  217.88KiB at   31.21MiB/s ETA 00:00[download]  58.3% of  217.88KiB at   37.90MiB/s ETA 00:00[download] 100.0% of  217.88KiB at   46.56MiB/s ETA 00:00[download] 100% of  217.88KiB in 00:00:00 at 10.64MiB/s  
+[2026-05-03T05:03:29Z] New file downloaded for this URL.
+[2026-05-03T05:03:29Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T05:03:29Z] Copying downloaded files to downloads
+[2026-05-03T05:03:38Z] Processing URL #1083:
+[2026-05-03T05:03:38Z] https://www.tiktok.com/@ninatoriello/video/7619450520977018133
+[TikTok] Extracting URL: https://www.tiktok.com/@ninatoriello/video/7619450520977018133
+[TikTok] 7619450520977018133: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7619450520977018133: Downloading 1 format(s): bytevc1_1080p_1409508-1
+[download] Destination: tmp_downloads/ninatoriello/@ninatoriello_2026-03-20_TikTok video #7619450520977018133_7619450520977018133.mp4
+[download]   0.0% of    2.58MiB at  Unknown B/s ETA Unknown[download]   0.1% of    2.58MiB at  Unknown B/s ETA Unknown[download]   0.3% of    2.58MiB at  Unknown B/s ETA Unknown[download]   0.6% of    2.58MiB at   11.74MiB/s ETA 00:00  [download]   1.2% of    2.58MiB at   18.79MiB/s ETA 00:00[download]   2.4% of    2.58MiB at   30.51MiB/s ETA 00:00[download]   4.8% of    2.58MiB at   38.00MiB/s ETA 00:00[download]   9.6% of    2.58MiB at   53.67MiB/s ETA 00:00[download]  19.3% of    2.58MiB at   73.43MiB/s ETA 00:00[download]  38.7% of    2.58MiB at  103.11MiB/s ETA 00:00[download]  77.4% of    2.58MiB at  148.85MiB/s ETA 00:00[download] 100.0% of    2.58MiB at  175.04MiB/s ETA 00:00[download] 100% of    2.58MiB in 00:00:00 at 71.10MiB/s  
+[2026-05-03T05:03:39Z] New file downloaded for this URL.
+[2026-05-03T05:03:39Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T05:03:39Z] Copying downloaded files to downloads
+[2026-05-03T05:03:49Z] Processing URL #1084:
+[2026-05-03T05:03:49Z] https://www.tiktok.com/@ninatoriello/video/7619450703370554644
+[TikTok] Extracting URL: https://www.tiktok.com/@ninatoriello/video/7619450703370554644
+[TikTok] 7619450703370554644: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7619450703370554644: Downloading 1 format(s): audio
+[download] Destination: tmp_downloads/ninatoriello/@ninatoriello_2026-03-20_TikTok video #7619450703370554644_7619450703370554644.mp3
+[download]   0.4% of  276.02KiB at  Unknown B/s ETA Unknown[download]   1.1% of  276.02KiB at  Unknown B/s ETA Unknown[download]   2.5% of  276.02KiB at    6.36MiB/s ETA 00:00  [download]   5.4% of  276.02KiB at   10.82MiB/s ETA 00:00[download]  11.2% of  276.02KiB at   18.01MiB/s ETA 00:00[download]  22.8% of  276.02KiB at   28.67MiB/s ETA 00:00[download]  46.0% of  276.02KiB at   35.14MiB/s ETA 00:00[download]  92.4% of  276.02KiB at   43.53MiB/s ETA 00:00[download] 100.0% of  276.02KiB at   44.34MiB/s ETA 00:00[download] 100% of  276.02KiB in 00:00:00 at 13.20MiB/s  
+[2026-05-03T05:03:50Z] New file downloaded for this URL.
+[2026-05-03T05:03:50Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T05:03:50Z] Copying downloaded files to downloads
+[2026-05-03T05:03:59Z] Preparing commit for: batch-216-after-1080-successful-downloads
+[2026-05-03T05:03:59Z] Removing video files larger than 90MB from: downloads
