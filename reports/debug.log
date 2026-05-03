@@ -16851,3 +16851,70 @@ WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate 
 [2026-05-03T03:55:38Z] Copying downloaded files to downloads
 [2026-05-03T03:55:42Z] Preparing commit for: batch-140-after-700-successful-downloads
 [2026-05-03T03:55:42Z] Removing video files larger than 90MB from: downloads
+[main 48c6a12] Add downloaded TikTok files batch-140-after-700-successful-downloads [skip ci]
+ 7 files changed, 72 insertions(+)
+ create mode 100644 "downloads/luciadelapuerta/@luciadelapuerta_2026-03-19_HOOY A LAS 00_00 \360\237\245\271\360\237\245\260\360\237\231\212\360\237\226\244_7619048333843205398.mp4"
+ create mode 100644 downloads/luciadelapuerta/@luciadelapuerta_2026-03-19_Quien decis que ha ganado hay derbi JAJAJAJA_7618980355357396246.mp4
+ create mode 100644 "downloads/luciadelapuerta/@luciadelapuerta_2026-03-21_YA TENEMOS FUERA \342\200\234KELOKE\342\200\235 \360\237\245\260\360\237\226\244 _7619707644068056342.mp4"
+ create mode 100644 "downloads/luciadelapuerta/@luciadelapuerta_2026-03-22_Una de las mejores experiencias de mi vida, repetiremos este a\303\261o\357\274\237\357\274\237 \360\237\245\271 ..._7620084612068363542.mp4"
+ create mode 100644 "downloads/luciadelapuerta/@luciadelapuerta_2026-03-23_Cuantos a\303\261os creeis que tengo en la 1\302\272 y en la \303\272ltima foto!\357\274\237 \360\237\231\210_7620453611843144982.mp3"
+To https://github.com/theSadeQ/tiktok-downloader-ignore90MB-4
+   1f99063..48c6a12  HEAD -> main
+[2026-05-03T03:55:50Z] Batch committed and pushed successfully: batch-140-after-700-successful-downloads
+[2026-05-03T03:55:50Z] Processing URL #705:
+[2026-05-03T03:55:50Z] https://www.tiktok.com/@luciadelapuerta/video/7620493899441933570
+[TikTok] Extracting URL: https://www.tiktok.com/@luciadelapuerta/video/7620493899441933570
+[TikTok] 7620493899441933570: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7620493899441933570: Downloading 1 format(s): bytevc1_1080p_834863-1
+[download] Destination: tmp_downloads/luciadelapuerta/@luciadelapuerta_2026-03-23_Publi. Hace un tiempo, mi piel y mi acné estaba en uno de sus peores ..._7620493899441933570.mp4
+[download]   0.0% of    4.06MiB at  Unknown B/s ETA Unknown[download]   0.1% of    4.06MiB at  Unknown B/s ETA Unknown[download]   0.2% of    4.06MiB at  Unknown B/s ETA Unknown[download]   0.4% of    4.06MiB at   11.96MiB/s ETA 00:00  [download]   0.7% of    4.06MiB at   19.66MiB/s ETA 00:00[download]   1.5% of    4.06MiB at   32.63MiB/s ETA 00:00[download]   3.1% of    4.06MiB at   38.20MiB/s ETA 00:00[download]   6.1% of    4.06MiB at   52.09MiB/s ETA 00:00[download]  12.3% of    4.06MiB at   68.03MiB/s ETA 00:00[download]  24.6% of    4.06MiB at   98.10MiB/s ETA 00:00[download]  49.2% of    4.06MiB at  141.54MiB/s ETA 00:00[download]  98.4% of    4.06MiB at  105.88MiB/s ETA 00:00[download] 100.0% of    4.06MiB at  105.65MiB/s ETA 00:00[download] 100% of    4.06MiB in 00:00:00 at 10.86MiB/s  
+[2026-05-03T03:55:51Z] New file downloaded for this URL.
+[2026-05-03T03:55:51Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:55:51Z] Copying downloaded files to downloads
+[2026-05-03T03:55:55Z] Processing URL #706:
+[2026-05-03T03:55:55Z] https://www.tiktok.com/@luciadelapuerta/video/7620510931767889174
+[TikTok] Extracting URL: https://www.tiktok.com/@luciadelapuerta/video/7620510931767889174
+[TikTok] 7620510931767889174: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7620510931767889174: Downloading 1 format(s): bytevc1_1080p_912033-1
+[download] Destination: tmp_downloads/luciadelapuerta/@luciadelapuerta_2026-03-23_Si llega “VUELTA ATRAS”🎶 a 200k subo videoclip🙈🙊🖤 _7620510931767889174.mp4
+[download]   0.0% of    2.87MiB at  Unknown B/s ETA Unknown[download]   0.1% of    2.87MiB at  Unknown B/s ETA Unknown[download]   0.2% of    2.87MiB at  Unknown B/s ETA Unknown[download]   0.5% of    2.87MiB at   13.36MiB/s ETA 00:00  [download]   1.1% of    2.87MiB at   19.61MiB/s ETA 00:00[download]   2.1% of    2.87MiB at   31.93MiB/s ETA 00:00[download]   4.3% of    2.87MiB at   40.24MiB/s ETA 00:00[download]   8.7% of    2.87MiB at   53.74MiB/s ETA 00:00[download]  17.4% of    2.87MiB at   69.11MiB/s ETA 00:00[download]  34.8% of    2.87MiB at   99.47MiB/s ETA 00:00[download]  69.6% of    2.87MiB at  144.73MiB/s ETA 00:00[download] 100.0% of    2.87MiB at  175.63MiB/s ETA 00:00[download] 100% of    2.87MiB in 00:00:00 at 9.66MiB/s   
+[2026-05-03T03:55:56Z] New file downloaded for this URL.
+[2026-05-03T03:55:56Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:55:56Z] Copying downloaded files to downloads
+[2026-05-03T03:56:00Z] Processing URL #707:
+[2026-05-03T03:56:00Z] https://www.tiktok.com/@luciadelapuerta/video/7620529316106898710
+[TikTok] Extracting URL: https://www.tiktok.com/@luciadelapuerta/video/7620529316106898710
+[TikTok] 7620529316106898710: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7620529316106898710: Downloading 1 format(s): bytevc1_1080p_1436885-1
+[download] Destination: tmp_downloads/luciadelapuerta/@luciadelapuerta_2026-03-23_Q crack🔥🖤_7620529316106898710.mp4
+[download]   0.0% of    8.98MiB at  Unknown B/s ETA Unknown[download]   0.0% of    8.98MiB at  Unknown B/s ETA Unknown[download]   0.1% of    8.98MiB at  Unknown B/s ETA Unknown[download]   0.2% of    8.98MiB at   12.04MiB/s ETA 00:00  [download]   0.3% of    8.98MiB at   19.23MiB/s ETA 00:00[download]   0.7% of    8.98MiB at   31.40MiB/s ETA 00:00[download]   1.4% of    8.98MiB at   38.31MiB/s ETA 00:00[download]   2.8% of    8.98MiB at   52.69MiB/s ETA 00:00[download]   5.6% of    8.98MiB at   69.99MiB/s ETA 00:00[download]  11.1% of    8.98MiB at   98.73MiB/s ETA 00:00[download]  22.3% of    8.98MiB at  143.52MiB/s ETA 00:00[download]  44.5% of    8.98MiB at  210.63MiB/s ETA 00:00[download]  89.1% of    8.98MiB at   67.07MiB/s ETA 00:00[download] 100.0% of    8.98MiB at   48.01MiB/s ETA 00:00[download] 100% of    8.98MiB in 00:00:00 at 21.71MiB/s  
+[2026-05-03T03:56:01Z] New file downloaded for this URL.
+[2026-05-03T03:56:01Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:56:01Z] Copying downloaded files to downloads
+[2026-05-03T03:56:05Z] Processing URL #708:
+[2026-05-03T03:56:05Z] https://www.tiktok.com/@luciadelapuerta/video/7620821780516621590
+[TikTok] Extracting URL: https://www.tiktok.com/@luciadelapuerta/video/7620821780516621590
+[TikTok] 7620821780516621590: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7620821780516621590: Downloading 1 format(s): bytevc1_1080p_1700666-1
+[download] Destination: tmp_downloads/luciadelapuerta/@luciadelapuerta_2026-03-24_La canción se llama “AMIGA VITAMINA” 🙈🖤🎶_7620821780516621590.mp4
+[download]   0.0% of    2.70MiB at  Unknown B/s ETA Unknown[download]   0.1% of    2.70MiB at  Unknown B/s ETA Unknown[download]   0.3% of    2.70MiB at  Unknown B/s ETA Unknown[download]   0.5% of    2.70MiB at   13.79MiB/s ETA 00:00  [download]   1.1% of    2.70MiB at   20.68MiB/s ETA 00:00[download]   2.3% of    2.70MiB at   34.75MiB/s ETA 00:00[download]   4.6% of    2.70MiB at   36.90MiB/s ETA 00:00[download]   9.2% of    2.70MiB at   40.97MiB/s ETA 00:00[download]  18.5% of    2.70MiB at   53.82MiB/s ETA 00:00[download]  37.0% of    2.70MiB at   78.59MiB/s ETA 00:00[download]  74.1% of    2.70MiB at  112.53MiB/s ETA 00:00[download] 100.0% of    2.70MiB at  131.02MiB/s ETA 00:00[download] 100% of    2.70MiB in 00:00:00 at 19.85MiB/s  
+[2026-05-03T03:56:06Z] New file downloaded for this URL.
+[2026-05-03T03:56:06Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:56:06Z] Copying downloaded files to downloads
+[2026-05-03T03:56:10Z] Processing URL #709:
+[2026-05-03T03:56:10Z] https://www.tiktok.com/@luciadelapuerta/video/7620881052592065814
+[TikTok] Extracting URL: https://www.tiktok.com/@luciadelapuerta/video/7620881052592065814
+[TikTok] 7620881052592065814: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7620881052592065814: Downloading 1 format(s): bytevc1_1080p_3405614-1
+[download] Destination: tmp_downloads/luciadelapuerta/@luciadelapuerta_2026-03-24_JAJAJAJAJAJA es broma_7620881052592065814.mp4
+[download]   0.0% of    5.11MiB at  Unknown B/s ETA Unknown[download]   0.1% of    5.11MiB at  Unknown B/s ETA Unknown[download]   0.1% of    5.11MiB at  Unknown B/s ETA Unknown[download]   0.3% of    5.11MiB at   12.45MiB/s ETA 00:00  [download]   0.6% of    5.11MiB at   18.05MiB/s ETA 00:00[download]   1.2% of    5.11MiB at   30.49MiB/s ETA 00:00[download]   2.4% of    5.11MiB at   36.71MiB/s ETA 00:00[download]   4.9% of    5.11MiB at   46.48MiB/s ETA 00:00[download]   9.8% of    5.11MiB at   68.61MiB/s ETA 00:00[download]  19.6% of    5.11MiB at   93.82MiB/s ETA 00:00[download]  39.1% of    5.11MiB at  142.53MiB/s ETA 00:00[download]  78.3% of    5.11MiB at  208.50MiB/s ETA 00:00[download] 100.0% of    5.11MiB at   54.37MiB/s ETA 00:00[download] 100% of    5.11MiB in 00:00:00 at 17.85MiB/s  
+[2026-05-03T03:56:11Z] New file downloaded for this URL.
+[2026-05-03T03:56:11Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:56:11Z] Copying downloaded files to downloads
+[2026-05-03T03:56:15Z] Preparing commit for: batch-141-after-705-successful-downloads
+[2026-05-03T03:56:15Z] Removing video files larger than 90MB from: downloads
