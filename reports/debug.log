@@ -12799,3 +12799,70 @@ WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate 
 [2026-05-03T03:32:03Z] Copying downloaded files to downloads
 [2026-05-03T03:32:04Z] Preparing commit for: batch-80-after-400-successful-downloads
 [2026-05-03T03:32:04Z] Removing video files larger than 90MB from: downloads
+[main 9e2a757] Add downloaded TikTok files batch-80-after-400-successful-downloads [skip ci]
+ 7 files changed, 72 insertions(+)
+ create mode 100644 downloads/livyspamsicl/@livyspamsicl_2026-02-13_TikTok video #7606492875056106782_7606492875056106782.mp4
+ create mode 100644 downloads/livyspamsicl/@livyspamsicl_2026-02-13_TikTok video #7606492892944764190_7606492892944764190.mp4
+ create mode 100644 downloads/livyspamsicl/@livyspamsicl_2026-02-13_TikTok video #7606493624674553119_7606493624674553119.mp4
+ create mode 100644 downloads/livyspamsicl/@livyspamsicl_2026-02-14_TikTok video #7606552478502489374_7606552478502489374.mp4
+ create mode 100644 downloads/livyspamsicl/@livyspamsicl_2026-02-14_TikTok video #7606790572011031838_7606790572011031838.mp4
+To https://github.com/theSadeQ/tiktok-downloader-ignore90MB-4
+   0729fd4..9e2a757  HEAD -> main
+[2026-05-03T03:32:08Z] Batch committed and pushed successfully: batch-80-after-400-successful-downloads
+[2026-05-03T03:32:08Z] Processing URL #403:
+[2026-05-03T03:32:08Z] https://www.tiktok.com/@livyspamsicl/video/7606794178055458079
+[TikTok] Extracting URL: https://www.tiktok.com/@livyspamsicl/video/7606794178055458079
+[TikTok] 7606794178055458079: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7606794178055458079: Downloading 1 format(s): bytevc1_720p_888939-1
+[download] Destination: tmp_downloads/livyspamsicl/@livyspamsicl_2026-02-14_TikTok video #7606794178055458079_7606794178055458079.mp4
+[download]   0.1% of    1.43MiB at  Unknown B/s ETA Unknown[download]   0.2% of    1.43MiB at  Unknown B/s ETA Unknown[download]   0.5% of    1.43MiB at  Unknown B/s ETA Unknown[download]   1.0% of    1.43MiB at   12.75MiB/s ETA 00:00  [download]   2.1% of    1.43MiB at    1.34MiB/s ETA 00:01[download]   4.3% of    1.43MiB at    2.68MiB/s ETA 00:00[download]   8.7% of    1.43MiB at    2.78MiB/s ETA 00:00[download]  17.4% of    1.43MiB at    3.61MiB/s ETA 00:00[download]  35.0% of    1.43MiB at    5.41MiB/s ETA 00:00[download]  70.0% of    1.43MiB at    8.52MiB/s ETA 00:00[download] 100.0% of    1.43MiB at   11.95MiB/s ETA 00:00[download] 100% of    1.43MiB in 00:00:00 at 3.80MiB/s   
+[2026-05-03T03:32:09Z] New file downloaded for this URL.
+[2026-05-03T03:32:09Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:32:09Z] Copying downloaded files to downloads
+[2026-05-03T03:32:11Z] Processing URL #404:
+[2026-05-03T03:32:11Z] https://www.tiktok.com/@livyspamsicl/video/7606794182660820254
+[TikTok] Extracting URL: https://www.tiktok.com/@livyspamsicl/video/7606794182660820254
+[TikTok] 7606794182660820254: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7606794182660820254: Downloading 1 format(s): bytevc1_720p_994431-1
+[download] Destination: tmp_downloads/livyspamsicl/@livyspamsicl_2026-02-14_TikTok video #7606794182660820254_7606794182660820254.mp4
+[download]   0.1% of    1.68MiB at  Unknown B/s ETA Unknown[download]   0.2% of    1.68MiB at  Unknown B/s ETA Unknown[download]   0.4% of    1.68MiB at  Unknown B/s ETA Unknown[download]   0.9% of    1.68MiB at   12.92MiB/s ETA 00:00  [download]   1.8% of    1.68MiB at   18.77MiB/s ETA 00:00[download]   3.7% of    1.68MiB at    2.89MiB/s ETA 00:00[download]   7.4% of    1.68MiB at    2.88MiB/s ETA 00:00[download]  14.8% of    1.68MiB at    3.81MiB/s ETA 00:00[download]  29.7% of    1.68MiB at    5.79MiB/s ETA 00:00[download]  59.4% of    1.68MiB at    8.91MiB/s ETA 00:00[download] 100.0% of    1.68MiB at   14.67MiB/s ETA 00:00[download] 100% of    1.68MiB in 00:00:00 at 4.77MiB/s   
+[2026-05-03T03:32:12Z] New file downloaded for this URL.
+[2026-05-03T03:32:12Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:32:12Z] Copying downloaded files to downloads
+[2026-05-03T03:32:13Z] Processing URL #405:
+[2026-05-03T03:32:13Z] https://www.tiktok.com/@livyspamsicl/video/7606796153652383006
+[TikTok] Extracting URL: https://www.tiktok.com/@livyspamsicl/video/7606796153652383006
+[TikTok] 7606796153652383006: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7606796153652383006: Downloading 1 format(s): bytevc1_1080p_1767846-1
+[download] Destination: tmp_downloads/livyspamsicl/@livyspamsicl_2026-02-14_TikTok video #7606796153652383006_7606796153652383006.mp4
+[download]   0.0% of    2.76MiB at  Unknown B/s ETA Unknown[download]   0.1% of    2.76MiB at  Unknown B/s ETA Unknown[download]   0.2% of    2.76MiB at  Unknown B/s ETA Unknown[download]   0.5% of    2.76MiB at   12.23MiB/s ETA 00:00  [download]   1.1% of    2.76MiB at   20.50MiB/s ETA 00:00[download]   2.2% of    2.76MiB at    2.85MiB/s ETA 00:00[download]   4.5% of    2.76MiB at    2.86MiB/s ETA 00:00[download]   9.0% of    2.76MiB at    3.77MiB/s ETA 00:00[download]  18.0% of    2.76MiB at    5.71MiB/s ETA 00:00[download]  36.1% of    2.76MiB at    9.14MiB/s ETA 00:00[download]  72.3% of    2.76MiB at   15.06MiB/s ETA 00:00[download] 100.0% of    2.76MiB at   20.43MiB/s ETA 00:00[download] 100% of    2.76MiB in 00:00:00 at 8.25MiB/s   
+[2026-05-03T03:32:15Z] New file downloaded for this URL.
+[2026-05-03T03:32:15Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:32:15Z] Copying downloaded files to downloads
+[2026-05-03T03:32:16Z] Processing URL #406:
+[2026-05-03T03:32:16Z] https://www.tiktok.com/@livyspamsicl/video/7606855344895135007
+[TikTok] Extracting URL: https://www.tiktok.com/@livyspamsicl/video/7606855344895135007
+[TikTok] 7606855344895135007: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7606855344895135007: Downloading 1 format(s): bytevc1_720p_1047616-1
+[download] Destination: tmp_downloads/livyspamsicl/@livyspamsicl_2026-02-14_TikTok video #7606855344895135007_7606855344895135007.mp4
+[download]   0.1% of  724.84KiB at  Unknown B/s ETA Unknown[download]   0.4% of  724.84KiB at  Unknown B/s ETA Unknown[download]   1.0% of  724.84KiB at  Unknown B/s ETA Unknown[download]   2.1% of  724.84KiB at   12.74MiB/s ETA 00:00  [download]   4.3% of  724.84KiB at    1.69MiB/s ETA 00:00[download]   8.7% of  724.84KiB at    3.37MiB/s ETA 00:00[download]  17.5% of  724.84KiB at    3.22MiB/s ETA 00:00[download]  35.2% of  724.84KiB at    4.32MiB/s ETA 00:00[download]  70.5% of  724.84KiB at    6.43MiB/s ETA 00:00[download] 100.0% of  724.84KiB at    9.01MiB/s ETA 00:00[download] 100% of  724.84KiB in 00:00:00 at 2.80MiB/s   
+[2026-05-03T03:32:17Z] New file downloaded for this URL.
+[2026-05-03T03:32:17Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:32:17Z] Copying downloaded files to downloads
+[2026-05-03T03:32:19Z] Processing URL #407:
+[2026-05-03T03:32:19Z] https://www.tiktok.com/@livyspamsicl/video/7606855836731804959
+[TikTok] Extracting URL: https://www.tiktok.com/@livyspamsicl/video/7606855836731804959
+[TikTok] 7606855836731804959: Downloading webpage
+WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[info] 7606855836731804959: Downloading 1 format(s): bytevc1_720p_789052-1
+[download] Destination: tmp_downloads/livyspamsicl/@livyspamsicl_2026-02-14_TikTok video #7606855836731804959_7606855836731804959.mp4
+[download]   0.2% of  597.18KiB at  Unknown B/s ETA Unknown[download]   0.5% of  597.18KiB at  Unknown B/s ETA Unknown[download]   1.2% of  597.18KiB at  Unknown B/s ETA Unknown[download]   2.5% of  597.18KiB at   12.78MiB/s ETA 00:00  [download]   5.2% of  597.18KiB at    1.58MiB/s ETA 00:00[download]  10.5% of  597.18KiB at    3.13MiB/s ETA 00:00[download]  21.3% of  597.18KiB at    2.98MiB/s ETA 00:00[download]  42.7% of  597.18KiB at    4.19MiB/s ETA 00:00[download]  85.6% of  597.18KiB at    6.34MiB/s ETA 00:00[download] 100.0% of  597.18KiB at    7.35MiB/s ETA 00:00[download] 100% of  597.18KiB in 00:00:00 at 1.83MiB/s   
+[2026-05-03T03:32:20Z] New file downloaded for this URL.
+[2026-05-03T03:32:20Z] Removing video files larger than 90MB from: tmp_downloads
+[2026-05-03T03:32:20Z] Copying downloaded files to downloads
+[2026-05-03T03:32:21Z] Preparing commit for: batch-81-after-405-successful-downloads
+[2026-05-03T03:32:21Z] Removing video files larger than 90MB from: downloads
