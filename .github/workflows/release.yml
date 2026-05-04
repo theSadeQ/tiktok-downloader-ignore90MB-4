@@ -29,11 +29,7 @@ jobs:
           cd repo
 
           folders=(
-            "downloads/undeadem"
-            "downloads/urdadella"
-            "downloads/wenkay"
-            "downloads/workoutwithdem"
-            "downloads/yolkfather"
+            "downloads"
           )
 
           for folder in "${folders[@]}"; do
