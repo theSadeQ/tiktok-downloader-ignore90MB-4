@@ -1,76 +1,66 @@
-name: Download & Split Repo
+name: Archive Large Repo Folder-by-Folder
 
 on:
   workflow_dispatch:
-    inputs:
-      target_repo:
-        description: "GitHub repo (OWNER/REPO)"
-        required: true
-        default: "torvalds/linux"
+
+permissions:
+  contents: write
 
 jobs:
-  split-and-release:
+  archive:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Install progress tools
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pv
-
-      - name: Set variables
-        run: |
-          echo "TARGET_REPO=${{ github.event.inputs.target_repo }}" >> $GITHUB_ENV
-          echo "REPO_NAME=$(basename ${{ github.event.inputs.target_repo }})" >> $GITHUB_ENV
-          echo "TAG=split-$(date +%Y%m%d-%H%M%S)" >> $GITHUB_ENV
-
-      - name: Clone repository
-        run: |
-          echo "Cloning $TARGET_REPO..."
-          git clone --depth=1 https://github.com/${TARGET_REPO}.git
-          echo "Clone finished."
-
-      - name: Archive repository
-        run: |
-          echo "Creating archive..."
-          tar -czf repo.tar.gz ${REPO_NAME}
-          echo "Archive size:"
-          ls -lh repo.tar.gz
-
-      - name: Split archive with progress
-        run: |
-          echo "Splitting archive into 1GB chunks..."
-          SIZE=$(stat -c%s repo.tar.gz)
-
-          pv -s $SIZE repo.tar.gz | split -b 1024M - repo.part-
-
-          echo "Chunks created:"
-          ls -lh repo.part-*
-
-      - name: Create release and upload parts
-        uses: softprops/action-gh-release@v2
+      - name: Checkout target repo
+        uses: actions/checkout@v4
         with:
-          tag_name: ${{ env.TAG }}
-          name: "Split Repo (${{ env.TAG }})"
-          files: repo.part-*
+          repository: theSadeQ/tiktok-downloader-ignore90MB-2
+          path: repo
+          fetch-depth: 1
+          # lfs: true # enable this if the repo uses Git LFS
 
-      - name: Generate download URL list
+      - name: Archive each folder into split parts
+        shell: bash
         run: |
-          RELEASE_URL="https://github.com/${GITHUB_REPOSITORY}/releases/download/${TAG}"
+          set -euo pipefail
 
-          echo "# Download URLs" > blob_urls.txt
-          echo "" >> blob_urls.txt
+          mkdir -p releases
 
-          for f in repo.part-*; do
-            echo "${RELEASE_URL}/${f}" >> blob_urls.txt
+          cd repo
+
+          folders=(
+            "downloads/taliaafawaz"
+            "downloads/the.johnsonbrothers"
+            "downloads/thedailyshow"
+            "downloads/thegnarliestcarly"
+            "downloads/tshi.oh"
+            "downloads/tuckercarlsonnetwork"
+          )
+
+          for folder in "${folders[@]}"; do
+            echo "==== Processing: $folder ===="
+
+            if [ ! -d "$folder" ]; then
+              echo "Warning: folder does not exist: $folder"
+              continue
+            fi
+
+            safe=$(printf '%s' "$folder" | tr '/' '-')
+
+            mkdir -p "../releases/$safe"
+
+            tar -czf - "$folder" | split \
+              -b 1024M \
+              -d \
+              -a 3 \
+              --numeric-suffixes=1 \
+              - "../releases/$safe/$safe.tar.gz."
+
+            echo "Finished: $folder"
           done
 
-          cat blob_urls.txt
-
-      - name: Upload URL list
+      - name: Upload all parts to Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ env.TAG }}
-          files: blob_urls.txt
+          tag_name: folder-archives
+          files: releases/**/*
