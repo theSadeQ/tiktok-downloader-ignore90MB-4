@@ -89,3 +89,5 @@
 2026-05-05T11:59:58Z | No new file or failed download | https://www.tiktok.com/@cinema_singularity/video/7070165802707651886
 2026-05-05T12:00:01Z | No new file or failed download | https://www.tiktok.com/@cinema_singularity/video/7070225945717689643
 2026-05-05T12:02:26Z | No new file or failed download | https://www.tiktok.com/@cinema_singularity/video/7074614193374367022
+2026-05-05T12:02:37Z | No new file or failed download | https://www.tiktok.com/@cinema_singularity/video/7074802576893594926
+2026-05-05T12:02:45Z | No new file or failed download | https://www.tiktok.com/@cinema_singularity/video/7075140985717525806
